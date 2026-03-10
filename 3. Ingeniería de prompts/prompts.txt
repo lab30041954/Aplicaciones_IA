@@ -1,0 +1,11 @@
+Escribe una lista de los 10 top journals de investigación en Odontología, ordenados por índice de impacto.
+
+=============
+
+Querido Gemini,
+Tengo que dar un curso corto sobre aplicaciones de la inteligencia artificial a la docencia y la investigación a profesores de la Facultad de Odontología. ¿Puedes escibirme un guión para el curso?
+
+=============
+
+Analyze this customer feedback and categorize the issues. Use these categories: UI/UX, Performance, Feature Request, Integration, Pricing, and Other. Also rate the sentiment (Positive/Neutral/Negative) and priority (High/Medium/Low).
+Here is the feedback: The new dashboard is a mess! It takes forever to load, and I can't find the export button. Fix this ASAP! 
