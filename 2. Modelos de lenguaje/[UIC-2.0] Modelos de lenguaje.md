@@ -88,7 +88,7 @@
 
 - El modelo produce una continuación razonable del prompt, basada en lo gente ha escrito en millones de páginas web (training data).
 
-- Efectúa unas operaciones matemáticas con los vectores de entrada, usando una arquitectura de **red neuronal** cuyos parámetros se han calculado durante el entrenamiento del modelo. la arquitectura de red usada por los modelos de languaje se llama **transformer**.
+- Efectúa unas operaciones matemáticas con los vectores de entrada, usando una arquitectura de **red neuronal** cuyos parámetros se han calculado durante el entrenamiento del modelo. La arquitectura de red usada por los modelos de languaje se llama **transformer**.
 
 - El vector resultante es un conjunto de **probabilidades** para el token de salida, que se escoge de acuerdo a esas probabilidades.
 
