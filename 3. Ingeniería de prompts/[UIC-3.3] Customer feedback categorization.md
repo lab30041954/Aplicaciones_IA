@@ -8,7 +8,7 @@ Analyze this customer feedback and categorize the issues. Use these categories: 
 
 Here is the feedback: The new dashboard is a mess! It takes forever to load, and I can't find the export button. Fix this ASAP! 
 
-## Output (Gemini 3)
+## Output (Gemini 3 Fast)
 
 Ouch. That's some spicy feedback, but honestly? It's exactly the kind of direct input that helps a product team figure out where the "fire" is.
 
@@ -57,7 +57,7 @@ Feedback: The new dashboard is a mess! It takes forever to load, and I cant find
 
 Feedback: Your pricing is ridiculous! $99/mo for basic features? I'm switching to a competitor.
 
-## Output (Gemini 3)
+## Output (Gemini 3 Fast)
 
 ```
 json
