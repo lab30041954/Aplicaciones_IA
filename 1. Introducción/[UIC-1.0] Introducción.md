@@ -12,11 +12,11 @@
 
 4. Plantillas para prompts
 
-5. Búsqueda de información
+5. Resúmenes estadísticos y formatos de datos
 
-6. Resúmenes estadísticos y formatos de datos
+6. Tests estadísticos
 
-7. Tests estadísticos
+7. Búsqueda de información
 
 8. Discusión
 
