@@ -4,7 +4,7 @@
 
 Escribe una lista de los 10 top journals de investigación en Odontología, ordenados por índice de impacto.
 
-## Output (Gemini 3)
+## Output (Gemini 3 Thinking)
 
 Aquí tienes la lista de las 10 revistas científicas con mayor impacto en el área de la Odontología, Cirugía Oral y Medicina, basada en los datos más recientes del **Journal Citation Reports (JCR)**.
 
