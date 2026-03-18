@@ -4,7 +4,7 @@
 
 Create a literature review on occlusal and proximal restorations and give me the relevant papers.
 
-## Output (Gemini Fast)
+## Output (Gemini 3 Fast)
 
 This literature review synthesizes current evidence (as of 2026) regarding occlusal and proximal restorations, focusing on material performance, clinical longevity, and the shift toward digital and biomimetic protocols.
 
