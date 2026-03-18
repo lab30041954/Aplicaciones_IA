@@ -4,7 +4,7 @@
 
 El fichero PDF adjunto contiene un capítulo de un conocido libro de texto de Endodoncia. 
 
-Prepara una lista de 10 preguntas, con opciones de respuesta A/B/C/D. Para cada pregunta, dame la respuesta correcta.
+Prepara una lista de 10 preguntas, con opciones de respuesta A/B/C/D. Para cada pregunta, dame la respuesta correcta. Usa el modelo del ejemplo que sigue.
 
 ```
 <example>
