@@ -12,22 +12,6 @@
 | 11 abr | 8. Discusión |
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Occlusal & Proximal Restorations: 2020-2025 Clinical Evidence</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
-        body { font-family: 'Inter', sans-serif; background-color: #EDF2F4; color: #2B2D42; }
-        .chart-container { position: relative; width: 100%; max-width: 600px; margin-left: auto; margin-right: auto; height: 350px; max-height: 400px; }
-        .chart-container-small { position: relative; width: 100%; max-width: 400px; margin-left: auto; margin-right: auto; height: 250px; max-height: 300px; }
-        .card-shadow { box-shadow: 0 10px 25px -5px rgba(43, 45, 66, 0.1), 0 8px 10px -6px rgba(43, 45, 66, 0.1); }
-    </style>
-</head>
 <body class="antialiased pb-16">
 
     <header class="bg-[#2B2D42] text-white py-16 px-6 mb-10 border-b-8 border-[#EF233C]">
