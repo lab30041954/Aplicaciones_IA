@@ -1,0 +1,14 @@
+Create a literature review on occlusal and proximal restorations and give me the relevant papers.
+
+=============
+
+El fichero PDF adjunto contiene un capítulo de un conocido libro de texto de Endodoncia. 
+Prepara una lista de 10 preguntas, con opciones de respuesta A/B/C/D. Para cada pregunta, dame la respuesta correcta. Usa el modelo del ejemplo que sigue.
+<example>
+¿Cuál es la función principal de los axones aferentes trigeminales que inervan la pulpa dental?
+A. Mediación de sensaciones de tacto ligero y presión suave.
+B. Función predominantemente nociceptiva.
+C. Regulación del flujo sanguíneo mediante el sistema parasimpático.
+D. Función propioceptiva para el control de la masticación.
+Respuesta correcta: B
+</example>
