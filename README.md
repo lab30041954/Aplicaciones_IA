@@ -12,22 +12,6 @@
 | 11 abr | 8. Discusión |
 
 
-<!--
-Palette Name: Vibrant Professional (Navy, Silver, Coral Red, Teal, Off-White)
-Confirmation: NEITHER Mermaid JS NOR SVG were used anywhere in the output.
-Narrative Plan: 
-1. Introduction: Hook the reader with the prevalence of Class I & II restorations and the shift to adhesive dentistry.
-2. The Longevity Debate: A direct comparison of Amalgam vs. Composite survival times using a horizontal bar chart.
-3. Failure Modes Analysis: Two side-by-side donut charts detailing why each material typically fails, explaining the clinical differences.
-4. Material Advancements (Bulk-Fill): A radar chart comparing Conventional vs. Bulk-Fill composites across key clinical metrics.
-5. Clinical Techniques: CSS-styled structural cards outlining findings on Flowable Liners and Matrix Systems.
-6. Minimally Invasive Protocols: Highlight cards for Selective Caries Removal and Pediatric techniques (ART vs. Hall).
-7. Literature Sources: A clean HTML table summarizing the synthesized research.
-Visualization Choices:
-- Data Point: Median Survival Times -> Goal: Compare -> Chosen Visualization: Horizontal Bar Chart (Chart.js) -> Justification: Clearly displays the magnitude difference between 16 and 11 years. NO SVG.
-- Data Point: Failure Modes -> Goal: Compare Composition -> Chosen Visualization: Donut Charts (Chart.js) -> Justification: Breaks down the primary reasons for failure as parts of a whole for each material. NO SVG.
-- Data Point: Conventional vs Bulk-Fill -> Goal: Relationships/Multivariate Comparison -> Chosen Visualization: Radar Chart (Chart.js) -> Justification: Ideal for mapping multiple performance variables (gloss, adaptation, time, stress) simultaneously. NO SVG.
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
