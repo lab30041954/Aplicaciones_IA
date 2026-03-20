@@ -10,6 +10,3 @@
 | 11 abr | 6. Tests estadísticos |
 | 11 abr | 7. Búsqueda de información |
 | 11 abr | 8. Discusión |
-
-
-https://drive.google.com/file/d/10cLwVc27ZV-FbD3FBR3sMAIHNOkAW-6f/view?usp=sharing
