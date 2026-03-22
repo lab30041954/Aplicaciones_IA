@@ -12,4 +12,4 @@
 | **Scite** | Citation-aware AI assistant that shows how studies are supported, contradicted, or mentioned in literature. |
 | **Consensus** | Research Q&A tool that answers scientific questions using evidence from peer-reviewed studies. |
 | **Asta** | AI agents for finding papers, summarizing literature, and analyzing data. |
-| Zotero | Research management tool for collecting, organizing, annotating, citing, and sharing research sources. |
+| **Zotero** | Research management tool for collecting, organizing, annotating, citing, and sharing research sources. |
