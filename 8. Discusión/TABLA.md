@@ -4,7 +4,7 @@
 
 | **Tool** | **Description** |
 | :--- | :--- |
-| **Paperguide** | An all-in-one AI research assistant for literature review, writing, summarization, and citation management. |
+| **Paperguide** | AI research assistant for literature review, writing, summarization, and citation management. |
 | **Paperpal** | Real-time academic writing assistant that improves grammar, tone, structure, and citation formatting. |
 | **SciSpace** | AI PDF reader that explains complex papers, equations, and methods in real time. |
 | **Elicit** | AI-powered literature review tool for finding evidence, summarizing results, and extracting data. |
