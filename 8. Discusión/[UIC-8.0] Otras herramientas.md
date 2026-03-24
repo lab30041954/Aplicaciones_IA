@@ -12,7 +12,7 @@
 
 - https://www.zotero.org
 
-- Concepto: Research assitant for reference mangement.
+- Concepto: Research assistant for reference mangement.
 
 - Local app sincronizada con web app. La misma idea que en DropBox.
 
