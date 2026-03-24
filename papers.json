@@ -1,0 +1,2333 @@
+{
+    "papers":
+    [
+        {
+            "title": "3D Surface Analysis as a Method to Evaluate Progress of Students' Restorative Skills Over Time",
+            "authors":
+            [
+                {
+                    "name": "Andrea Rung",
+                    "id": "4911014"
+                },
+                {
+                    "name": "Andrew Cameron",
+                    "id": "2298932790"
+                },
+                {
+                    "name": "Jing Sun",
+                    "id": "2157279564"
+                },
+                {
+                    "name": "Roy George",
+                    "id": "2267706017"
+                }
+            ],
+            "year": 2025,
+            "venue": "European journal of dental education",
+            "score": 0.9697962350250703,
+            "abstract": "ABSTRACT Introduction Digital scanning technology in dental education is on the rise offering precise feedback for indirect restorations. This technology could have similar applications for direct restorations worth exploring. To this end, this study used 3D surface analysis to measure students' ability to restore teeth's occlusal and proximal contours over time. Method 169 teeth restored with composite were scanned with a desktop scanner (E3, 3Shape, Copenhagen) at the end of an academic year. Compound composite restorations were performed in three iterations by 2nd year students enrolled in their first preclinical course. Standard Tessellation Language (STL) files of all restored teeth were analysed for fit with a digital reference using a surface matching software (Geomagic Control 2021; 3D systems). The 3D digital surface analysis output was compared at the different iterations. Additionally, the association between the 3D surface analysis output and scores awarded by tutors was assessed to evaluate this technology's potential to enhance students' independent learning. Results Assessment of restored surfaces using 3D surface analyses showed statistically significant differences between second and third iterations (p < 0.001). There was a positive association between tutors' scores and the 3D surface analysis data. Conclusion The results suggest that digital scanning and 3D surface analysis technology could enhance feedback and promote students' independent learning.",
+            "corpusId": 277631769,
+            "url": "https://api.semanticscholar.org/CorpusId:277631769"
+        },
+        {
+            "title": "Comparing metal onlay and full crown in root canal treated molars with single proximal defect – An 18-month clinical study",
+            "authors":
+            [
+                {
+                    "name": "R. E. Benisha",
+                    "id": "2359520047"
+                },
+                {
+                    "name": "Rathna Piriyanga",
+                    "id": "2323303209"
+                },
+                {
+                    "name": "I. Sherwood",
+                    "id": "2140419649"
+                },
+                {
+                    "name": "Indhra S. Ramanathan",
+                    "id": "2340834897"
+                },
+                {
+                    "name": "A. Abirami",
+                    "id": "2277090535"
+                }
+            ],
+            "year": 2025,
+            "venue": "Journal of conservative dentistry and endodontics",
+            "score": 0.9625261107731443,
+            "abstract": "Aim: The aim of the study was to compare the survival and success rates of metal onlays and crowns in root canal-treated first and second molars with single proximal defects. Materials and Methods: A total of 120 patients requiring post-endodontic restoration of molars were randomly assigned into two groups (n = 60 each): metal onlays and metal crowns. Restorations were fabricated using standard protocols and cemented with glass ionomer cement. Patients were followed up for 18 months, with survival defined as the presence of an intact restoration and success as the absence of food impaction. To indicate success, revised FDI criteria are used. Statistical Analysis: Kaplan–Meier survival analysis was performed to evaluate the restoration survival rate; the Chi-square test was used to compare categorical variables. Results: Kaplan–Meier analysis showed a survival rate of 95% for onlays and 90% for crowns, with no significant difference (P = 0.294). Success rates were 91.7% for onlays and 90.0% for crowns with no significant difference (P = 0.604). Food impaction was more common when the pretreatment restoration margin was apical to the cementoenamel junction, though not statistically significant (P = 0.167). Conclusion: Metal onlays and crowns exhibited comparable survival and success rates in root canal-treated first and second molars with single proximal defects.",
+            "corpusId": 278377299,
+            "url": "https://api.semanticscholar.org/CorpusId:278377299"
+        },
+        {
+            "title": "Use of Wax and Resin Patterns in Global Fixed Prosthetic Rehabilitation",
+            "authors":
+            [
+                {
+                    "name": "Etienne Lefrançois",
+                    "id": "2264822811"
+                },
+                {
+                    "name": "Ludovic Aubault",
+                    "id": "2345149059"
+                },
+                {
+                    "name": "Salomé Provost",
+                    "id": "2345148352"
+                }
+            ],
+            "year": 2025,
+            "venue": "Clinical Case Reports",
+            "score": 0.9619920670856443,
+            "abstract": "In clinical situations of complete rehabilitation with fixed prostheses, mastering each parameter of all restorations (shape, marginal adaptation, proximal and occlusal contacts) proves to be a challenge. The large number of restorations involves many potential adjustments that are time‐consuming and lead to final ceramic properties degradation. This clinical report highlights the benefits of using castable patterns in complete fixed prosthetic rehabilitation. Minimal preparations of the teeth were carried out using the conventional mock‐up technique. The impressions were then digitized to produce wax and resin patterns (Castable Wax Resin; Formlabs) with a stereolithography 3D printer (Form 2; Formlabs). During oral try‐in of patterns, adjustments can be carried out to correct any defects of shape, marginal adaptation, proximal, and occlusal contacts. The definitive restorations were directly pressed from the patterns into lithium disilicate glass‐reinforced ceramic (IPS e.max Press; Ivoclar Vivadent) using the lost‐wax casting process. Finally, the restorations were placed permanently in the mouth with complete patient satisfaction after 4 years of follow‐up. This procedure is intended to reduce ceramic adjustments on definitive restorations. It is especially relevant in complete fixed rehabilitation and in situations where the thickness of ceramic restorations does not allow for try‐in before bonding.",
+            "corpusId": 276313449,
+            "url": "https://api.semanticscholar.org/CorpusId:276313449"
+        },
+        {
+            "title": "Comparative Evaluation of Stress Acting on Abutment, Bone, and Connector of Different Designs of Acid-Etched Resin-Bonded Fixed Partial Dentures: Finite Element Analysis",
+            "authors":
+            [
+                {
+                    "name": "S. Shaikh",
+                    "id": "145611988"
+                },
+                {
+                    "name": "Punith Rai",
+                    "id": "2163573125"
+                },
+                {
+                    "name": "S. Aldhuwayhi",
+                    "id": "9836296"
+                },
+                {
+                    "name": "S. Mallineni",
+                    "id": "6162980"
+                },
+                {
+                    "name": "K. Lekha",
+                    "id": "2155166405"
+                },
+                {
+                    "name": "A. Joseph",
+                    "id": "19093202"
+                },
+                {
+                    "name": "Vardharaj Vinutha Kumari",
+                    "id": "2163574023"
+                },
+                {
+                    "name": "R. Meshramkar",
+                    "id": "6781950"
+                }
+            ],
+            "year": 2022,
+            "venue": "Frontiers in Bioengineering and Biotechnology",
+            "score": 0.9601262911549479,
+            "abstract": "Background: Finite element analysis (FEA) is one of the best methods for evaluating the stress distribution of restorations, such as fixed partial dentures. The development of resin cement has transformed prosthesis bonding and retention properties. Resin-bonded fixed partial dentures (RBFPD) have been considered minimally invasive treatment options for the prosthetic rehabilitation of single missing teeth. Objectives: The aim of this study was to evaluate the stress load and distribution in four different designs of acid-etched RBFPDs using FEA. Materials and Methods: The designs included standard tooth preparation principles and additional features. The first premolar and first molar abutments replaced the missing second premolar. Designs 1, 2, 3, and 4 included (1) lingual wings and occlusal rests; (2) wings and proximal slices; (3) wings, rests, and grooves; and (4) wings, rests, grooves, and occlusal coverage. The prepared models were restored with RBFPDs. A load of 100 N was applied to the central groove of the pontic to simulate occlusal forces. The materials used in the models were considered to be isotropic, homogeneous, and linearly elastic. FEA was used to reveal stresses acting on the abutment, bone, and connector in all prosthesis designs. Results: The stresses transmitted to the abutment and bones were lowest for design 3, using wings, rests, and grooves. The stresses acting on the connector were the weakest in design 2. The stresses transmitted to the abutment and bone were highest in designs 1 and 4. The stresses transmitted to the connector were highest in design 3. Conclusion: The wings, rests, and grooves design is possibly the ideal and conservative tooth preparation design to receive a posterior RBFPD. This design transmits less stress to the abutments and less bone resorption in the FEA. It is most likely to be successful in the clinical provision and ensures the longevity of the prosthesis.",
+            "corpusId": 248399466,
+            "url": "https://api.semanticscholar.org/CorpusId:248399466"
+        },
+        {
+            "title": "Procedure time and patient perception for ceramic endocrowns or partial coverage ceramic restorations: a double-blind randomized clinical trial",
+            "authors":
+            [
+                {
+                    "name": "S. Morimoto",
+                    "id": "2271102"
+                },
+                {
+                    "name": "R. M. Fraga",
+                    "id": "134638355"
+                },
+                {
+                    "name": "T. Tedesco",
+                    "id": "5299607"
+                },
+                {
+                    "name": "M. Ozcan",
+                    "id": "114598159"
+                },
+                {
+                    "name": "Flávia Sampaio",
+                    "id": "47077351"
+                },
+                {
+                    "name": "M. S. Moreira",
+                    "id": "144093984"
+                },
+                {
+                    "name": "Anuar Sadat Neres Santiago",
+                    "id": "2123969380"
+                },
+                {
+                    "name": "Dainela Procida Raggio",
+                    "id": "2123967518"
+                }
+            ],
+            "year": 2021,
+            "venue": "unknown",
+            "score": 0.9570106362562438,
+            "abstract": "Objetive: This study aimed to compare procedure time and patient discomfort and satisfaction between endocrowns or partial coverage ceramic restorations with fiber post and filling (PCCR+Post). Materials and Methods: A double-blind RCT was carried out according to eligibility criteria: 1) Endodontic treatment; 2) Molars or premolars; 3) Minimum of one cusp with 3-mm thick; 4) Dental antagonists; 5) Supragingival margins; 6) Good oral hygiene; and 7) Minimum of 18 years. Patients were allocated to two groups: Endocrown or PCCR+Post. Each session was timed; discomfort and satisfaction were assessed. Poisson regression analysis and two-way repeatedmeasures analysis of variance were performed. Results: Forty patients were selected (20 per group). 90% and 82.5% of participants in the PCCR+Post and Endocrown group, respectively, reported little or no discomfort. There was no association between the explanatory variables and the discomfort reported by patients. The level of satisfaction was 100%. Procedure time in the Endocrown (129.7 min±29.78) was similar to PCCR+Post (134.1 min±29.64). Endocrown and PCCR+Post had similar procedure time and patient perception, however, endocrowns allow less clinical steps. Conclusions: Endocrown and PCCR+Post had similar procedure time and patient perception, however, endocrowns allow less clinical steps. Trial registrationclinicaltrials.gov (NCT03064516). FundingFundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP-2017/24153-1). Descriptors: Dental Cavity Preparation; Patient Reported Outcome Measures; Patient Satisfaction; Ceramic; Operative Time.",
+            "corpusId": 237249735,
+            "url": "https://api.semanticscholar.org/CorpusId:237249735"
+        },
+        {
+            "title": "The clinical performance of high-viscosity glass ionomer-based and bulk-fill resin-based restorations in permanent teeth with occlusal or proximal cavities: a systematic review and meta-analysis",
+            "authors":
+            [
+                {
+                    "name": "Xinyue Huang",
+                    "id": "2404946752"
+                },
+                {
+                    "name": "Ruonan Zhang",
+                    "id": "2238904086"
+                },
+                {
+                    "name": "Xueqian Yu",
+                    "id": "2116330383"
+                },
+                {
+                    "name": "Wenting Sun",
+                    "id": "2308160687"
+                },
+                {
+                    "name": "Lu Zhang",
+                    "id": "2320160180"
+                },
+                {
+                    "name": "Fang Hua",
+                    "id": "2054384379"
+                },
+                {
+                    "name": "Zhi Chen",
+                    "id": "2254296313"
+                }
+            ],
+            "year": 2025,
+            "venue": "Clinical Oral Investigations",
+            "score": 0.9489469863719714,
+            "abstract": "",
+            "corpusId": 275380899,
+            "url": "https://doi.org/10.1007/s00784-024-06127-x"
+        },
+        {
+            "title": "Restorations after selective caries removal: 5-year randomized trial.",
+            "authors":
+            [
+                {
+                    "name": "J. J. Jardim",
+                    "id": "5610106"
+                },
+                {
+                    "name": "H. D. Mestrinho",
+                    "id": "15084891"
+                },
+                {
+                    "name": "B. Koppe",
+                    "id": "2080307041"
+                },
+                {
+                    "name": "L. M. de Paula",
+                    "id": "49030382"
+                },
+                {
+                    "name": "L. S. Alves",
+                    "id": "145946831"
+                },
+                {
+                    "name": "P. M. Yamaguti",
+                    "id": "3524941"
+                },
+                {
+                    "name": "J. Almeida",
+                    "id": "8118846"
+                },
+                {
+                    "name": "M. Maltz",
+                    "id": "2046610"
+                }
+            ],
+            "year": 2020,
+            "venue": "E -journal of dentistry",
+            "score": 0.8290398728179121,
+            "abstract": "",
+            "corpusId": 220071242,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/32585263"
+        },
+        {
+            "title": "Time of development of occlusal and proximal lesions: implications for fissure sealants.",
+            "authors":
+            [
+                {
+                    "name": "Stephen A. Eklund",
+                    "id": "2245337843"
+                },
+                {
+                    "name": "Amid I. Ismail",
+                    "id": "2246643214"
+                }
+            ],
+            "year": 1986,
+            "venue": "Journal of Public Health Dentistry",
+            "score": 0.8247813186559425,
+            "abstract": "",
+            "corpusId": 23351394,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/3457950"
+        },
+        {
+            "title": "Five-year survival analysis of class I and II restorations performed in non-compliant children.",
+            "authors":
+            [
+                {
+                    "name": "Thiago Saads Carvalho",
+                    "id": "2312475220"
+                },
+                {
+                    "name": "Chutima Un-Arm",
+                    "id": "2401366632"
+                },
+                {
+                    "name": "Suvaniya Jeganathan",
+                    "id": "2401372075"
+                },
+                {
+                    "name": "T. Hug",
+                    "id": "2401367297"
+                },
+                {
+                    "name": "R. J. Wierichs",
+                    "id": "15991560"
+                },
+                {
+                    "name": "Hendrik Meyer-Lueckel",
+                    "id": "2335644212"
+                },
+                {
+                    "name": "S. Niemeyer",
+                    "id": "2011374055"
+                }
+            ],
+            "year": 2025,
+            "venue": "E -journal of dentistry",
+            "score": 0.7798392173326684,
+            "abstract": "",
+            "corpusId": 284291132,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/41461306"
+        },
+        {
+            "title": "Agreement among dentists' restorative treatment planning thresholds for primary occlusal caries, primary proximal caries, and existing restorations: findings from The National Dental Practice-Based Research Network.",
+            "authors":
+            [
+                {
+                    "name": "T. Heaven",
+                    "id": "11275317"
+                },
+                {
+                    "name": "V. Gordan",
+                    "id": "6636345"
+                },
+                {
+                    "name": "M. Litaker",
+                    "id": "4049198"
+                },
+                {
+                    "name": "J. Fellows",
+                    "id": "2255849"
+                },
+                {
+                    "name": "D. Brad Rindal",
+                    "id": "14448929"
+                },
+                {
+                    "name": "A. Firestone",
+                    "id": "2078656339"
+                },
+                {
+                    "name": "G. Gilbert",
+                    "id": "144526619"
+                }
+            ],
+            "year": 2013,
+            "venue": "E -journal of dentistry",
+            "score": 0.7664680448519187,
+            "abstract": "",
+            "corpusId": 3452445,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/23743181"
+        },
+        {
+            "title": "Effect of 180‐Day Water Storage on Bonding Effectiveness of Self‐Adhesive Systems to Occlusal and Proximal Dentin",
+            "authors":
+            [
+                {
+                    "name": "A. F. Montagner",
+                    "id": "6686110"
+                },
+                {
+                    "name": "J. Skupien",
+                    "id": "40076236"
+                },
+                {
+                    "name": "Marciano de Freitas Borges",
+                    "id": "13172211"
+                },
+                {
+                    "name": "I. Krejci",
+                    "id": "35013772"
+                },
+                {
+                    "name": "T. Bortolotto",
+                    "id": "4398937"
+                },
+                {
+                    "name": "A. Susin",
+                    "id": "6118559"
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Prosthodontics",
+            "score": 0.7600159164956659,
+            "abstract": "",
+            "corpusId": 206127540,
+            "url": "https://doi.org/10.1111/jopr.12365"
+        },
+        {
+            "title": "Survival rates of occlusal vs. proximal restorations in primary and permanent teeth",
+            "authors":
+            [
+                {
+                    "name": "D. Mustafa",
+                    "id": "83316676"
+                },
+                {
+                    "name": "G. Roberts",
+                    "id": "2073540390"
+                },
+                {
+                    "name": "G. Pearson",
+                    "id": "73872823"
+                }
+            ],
+            "year": 2005,
+            "venue": "unknown",
+            "score": 0.7547135983381182,
+            "abstract": "",
+            "corpusId": 73818357,
+            "url": "https://api.semanticscholar.org/CorpusId:73818357"
+        },
+        {
+            "title": "New Dual-cure Resin-based Material in Occlusal and Occluso-proximal Restorations of Primary Teeth: Results of a Randomized Clinical Trial",
+            "authors":
+            [
+                {
+                    "name": "Cinthia Maria Baggio de Luca da Cunha",
+                    "id": "2164297104"
+                },
+                {
+                    "name": "L. Wambier",
+                    "id": "16037656"
+                },
+                {
+                    "name": "T. Matos",
+                    "id": "39164595"
+                },
+                {
+                    "name": "P. Malaquias",
+                    "id": "13985106"
+                },
+                {
+                    "name": "Alessandra Reis",
+                    "id": "2147411172"
+                },
+                {
+                    "name": "A. Loguércio",
+                    "id": "144046782"
+                },
+                {
+                    "name": "D. Wambier",
+                    "id": "7793883"
+                },
+                {
+                    "name": "A. Chibinski",
+                    "id": "5021573"
+                }
+            ],
+            "year": 2022,
+            "venue": "International Journal of Clinical Pediatric Dentistry",
+            "score": 0.7409889210838067,
+            "abstract": "Abstract Background The clinical performance of new restorative materials must be evaluated before recommending its use in primary teeth. Aim This randomized clinical trial evaluated the survival rates of restorations in single and occluso-proximal cavities of primary teeth performed with a new dual-cure resin-based material in comparison with a resin-modified glass ionomer cement after 12 months of follow-up. Materials and methods A total of 107 restorations were placed in 27 children by one experienced pediatric dentist. Two materials were tested: Vitremer and a dual-cure resin-based material with (CentionN+Adh) and without (Cention N-Adh) adhesive system application. Two calibrated and blinded examiners evaluated the restorations at 3, 6, and 12-month. The longevity of the restorations was analyzed using Kaplan-Meier survival curves and Log-rank test (α = 5%). Results The overall survival rates after 12-month were 81.9% for Vitremer, 70.4% for Cention N+Adh, and 66.7% for Cention N-Adh, which had the poorer performance (HR = 0.54; 95% CI= 0.31-0.95; p = 0.031). When considering the type of the cavities, the difference was significant only for occluso-proximal cavities when Cention N-Adh was used (HR = 0.46; CI = 0.26-0.81; p = 0.008). Conclusion All evaluated materials are suitable for restoring occlusal cavities after selective caries removal. However, Cention N needs to be used with adhesive in occluso-proximal cavities. Clinical significance Cention-N can be used for deciduous teeth restorations, with similar longevity rates as resin modified glass ionomer cements. Trial registration number RBR-9nqszr How to cite this article da Cunha CM, Wambier LM, Paris Matos TD, et al. New Dual-cure Resin-based Material in Occlusal and Occluso-proximal Restorations of Primary Teeth: Results of a Randomized Clinical Trial. Int J Clin Pediatr Dent 2022;15(1):38-46.",
+            "corpusId": 247882837,
+            "url": "https://api.semanticscholar.org/CorpusId:247882837"
+        },
+        {
+            "title": "Assessment of anatomical contacts and contours of class II restorations using four different dental matrix systems: An in vitro comparative analysis",
+            "authors":
+            [
+                {
+                    "name": "Deva Nanda Panda",
+                    "id": "2359539466"
+                },
+                {
+                    "name": "M. Kaushik",
+                    "id": "6753901"
+                },
+                {
+                    "name": "N. Mehra",
+                    "id": "35055597"
+                },
+                {
+                    "name": "N. Verma",
+                    "id": "2348386220"
+                },
+                {
+                    "name": "A. Dwivedi",
+                    "id": "39212877"
+                }
+            ],
+            "year": 2025,
+            "venue": "Journal of conservative dentistry and endodontics",
+            "score": 0.7386508218375702,
+            "abstract": "Context: The assessment of reestablishment of correct anatomic contour and proximal tightness with minimal gingival overhang of a class II restoration. Aim: This in vitro study evaluated and compared the gingival overhang, contact, and contour anatomy achieved by four matrix systems for class II restorations. Materials and Method: Standardized class II mesio-occlusal conservative cavities were prepared on two hundred typodont teeth and assigned into four groups (n = 50): Tofflemire, U Band system, Palodent V3 matrix system, and Walser Matrix system. The cavities were restored with composite and qualitatively analyzed for proximal contact tightness. The morphology of the overhang and contour was assessed using a Medit scanner and Mesh Labs by superimposition. Statistical Analysis Used: Kruskal–Wallis nonparametric test of significance and Mann–Whiteny U-test for pair-wise comparison was used. Results: The restorations showed statistically significant difference, with Walser matrix system and U Band demonstrating minimal overhang. No significant difference was observed for contact tightness among the groups (P = 0.109). Contours were assessed at the occlusal, middle, and cervical thirds. The Walser matrix system provided the best gingival contour (P = 0.000). The Palodent V3 matrix yielded the best contour at the middle (P = 0.002) and occlusal (P = 0.036) third with minimum deviation from optimal contour. Conclusions: The sectional precontoured matrix system Palodent V3 system recreated the best proximal contour and contact anatomy, while minimal overhang was generated by the Walser matrix.",
+            "corpusId": 278380650,
+            "url": "https://api.semanticscholar.org/CorpusId:278380650"
+        },
+        {
+            "title": "Clinical performance of bonded leucite-reinforced glass ceramic inlays and onlays after eight years.",
+            "authors":
+            [
+                {
+                    "name": "N. Krämer",
+                    "id": "2301405"
+                },
+                {
+                    "name": "R. Frankenberger",
+                    "id": "5856714"
+                }
+            ],
+            "year": 2005,
+            "venue": "Dental Materials",
+            "score": 0.737022595895128,
+            "abstract": "",
+            "corpusId": 8771974,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/15705433"
+        },
+        {
+            "title": "Marginal Adaptation of In Vitro Class II Restorations Made Out of Bulk or Conventional Composite Using Single- or Multi-Layered Techniques",
+            "authors":
+            [
+                {
+                    "name": "D. Dietschi",
+                    "id": "8239161"
+                },
+                {
+                    "name": "Mustafa Askari",
+                    "id": "2244537439"
+                },
+                {
+                    "name": "I. Rossier",
+                    "id": "51222443"
+                },
+                {
+                    "name": "L. Caseiro",
+                    "id": "2244546756"
+                },
+                {
+                    "name": "Ivo Krejci",
+                    "id": "2085770036"
+                },
+                {
+                    "name": "J. Leprince",
+                    "id": "2243579089"
+                },
+                {
+                    "name": "E. di Bella",
+                    "id": "2082758817"
+                },
+                {
+                    "name": "S. Ardu",
+                    "id": "5246205"
+                }
+            ],
+            "year": 2023,
+            "venue": "Materials",
+            "score": 0.7353854132605512,
+            "abstract": "Objective: Testing the influence of various restorative materials (conventional or bulkfill composites) and filling techniques (single- or multi-layered techniques) on the in vitro marginal adaptation of large class II direct composites with supra and sub-gingival margins subjected to thermomechanical loading (TML). Methods: A total of 40 prepared teeth were attributed randomly to five experimental groups. In Group 1, restorations were made of multi-layered high-viscosity conventional composite (Tetric EvoCeram); in Groups 2 and 3, restorations were made of a high viscosity bulkfill composite (Tetric EvoCeram Bulk Fill) applied in one (Group 2) or three layers (Group 3); in Groups 4 and 5, restorations were made of a flowable bulkfill composite (SDR flow) applied in one (Group 4) or two layers (Group 5), covered with a layer of high-viscosity conventional composite (Ceram-X Universal). A single adhesive (OptiBond FL) was used in all groups. All specimens were submitted to a staged TML comprising three phases (2 × 500,000 and 1,000,000 cycles) at 50 N with 3350 thermal cycles (5 to 55 °C) every 500,000 cycles. The tooth–restoration interfaces on proximal surfaces were evaluated quantitatively by scanning electron microscopy, before and after each TML phase, hence at three timepoints (T0, T1, T2 and T3). The following segments were considered for evaluation: proximal, vertical enamel margins (assessed individually on both restoration sides), cervical enamel (restoration side above CEJ) and cervical dentin margin (restoration side below the CEJ). Results: TML induced a significant reduction in continuous adaptation at both enamel and dentin margins in all groups, with percentages of continuous margins ranging from 75.2 to 91.8% at T0, and decreasing to values ranging from 21.3 to 73.9% at T3. Both composite systems and layering protocols had a significant influence on marginal adaptation of the restorations, with statistical associations depending on the restoration group and the timepoint considered. Defective margins in enamel were all of a cohesive nature with micro-fractures, while in dentin, interfacial gaps were the main defect observed. Conclusions/Clinical significance: The present results highlighted significant degradation of marginal adaption after long-term in vitro fatigue test using materials even with high-viscosity conventional resin composites, applied with a proper layering approach in medium–large sub-gingival cavities. While no significant differences were observed at the dentin cervical margins, there was a tendency for better adaptation at the enamel margin when using a higher modulus material with a multi-layered technique.",
+            "corpusId": 262210069,
+            "url": "https://api.semanticscholar.org/CorpusId:262210069"
+        },
+        {
+            "title": "Timing and method of restoration affect fracture resistance of endodontically treated teeth: An in vitro study",
+            "authors":
+            [
+                {
+                    "name": "Yunyu Yuan",
+                    "id": "2400007508"
+                },
+                {
+                    "name": "Pingping Chen",
+                    "id": "2400502398"
+                }
+            ],
+            "year": 2025,
+            "venue": "Medicine",
+            "score": 0.7349283996731445,
+            "abstract": "Root canal treatment (RCT) often results in significant loss of tooth structure, increasing the risk of tooth fracture under occlusal forces. This study aimed to evaluate the impact of different restoration timings on the fracture resistance of teeth after RCT and to compare the effectiveness of 3 restoration methods: full crown, onlay, and occlusal veneer. Sixty extracted human molars underwent standardized RCT and were randomly assigned to 9 groups (n = 6–7) in a 3 × 3 factorial design: immediate (1 week), early (2–3 weeks) or delayed (4–6 weeks) restoration, each receiving either a zirconia full crown, lithium-disilicate onlay or composite occlusal veneer. After thermomechanical aging (5000 thermal cycles, 50000 chewing cycles, 50 N), specimens were loaded to fracture (1 mm min−1). Mean fracture loads declined with delayed restoration: immediate 2 356 ± 413 N, early 2 086 ± 389 N, delayed 1 754 ± 357 N (P < .001). Full crowns resisted highest loads, followed by onlays and veneers (P < .01); timing × method interaction was significant (P = .038). Immediate restoration yielded 85% repairable failures; delay increased non-repairable root fractures to 55% (P = .004). Earlier restoration after RCT significantly enhances fracture resistance and clinical prognosis. While full crown restoration offers superior protection, onlay and occlusal veneer are viable alternatives that balance fracture resistance and tooth structure preservation.",
+            "corpusId": 284063951,
+            "url": "https://api.semanticscholar.org/CorpusId:284063951"
+        },
+        {
+            "title": "Effect of Beveling Large Class II Cavities on the Enamel Marginal Quality of Direct Resin-Based Restorations",
+            "authors":
+            [
+                {
+                    "name": "A. Rathke",
+                    "id": "2053474451"
+                },
+                {
+                    "name": "Henry Frehse",
+                    "id": "48571876"
+                },
+                {
+                    "name": "Anne Selinka",
+                    "id": "2377767441"
+                }
+            ],
+            "year": 2025,
+            "venue": "Journal of Clinical Medicine",
+            "score": 0.7323504330624476,
+            "abstract": "Background/Objectives: It is unclear whether enamel margins should be beveled in direct resin-based restorations. This study evaluated the influence of enamel beveling on the marginal quality of mesio-occluso-distal (mod) cavity boxes. Methods: Seventy-five caries-free human molars were divided into three groups. Mod-cavities with the entire margin in the enamel were prepared ± proximal bevel (n = 25). Twenty-five beveled mod-cavities served as control. Each group was restored with five material combinations: micro hybrid composite with etch-and-rinse (ER) or self-etch (SE) adhesive, compomer with ER or SE, and low-shrinkage composite with ER. A complex filling technique was used in the control. After artificial aging (1000 thermal cycles, 5/55 °C), the percentage of continuous margins (PCM) of the proximal boxes was analyzed by scanning electron microscopy using epoxy replicas (×300), and the marginal seal was assessed by light microscopy after dye penetration (×64). Statistical analysis was performed using Kruskal–Wallis and Mann–Whitney U tests (p < 0.05). Results: No significant differences in PCM were found between the restorative systems (p = 0.075). The composite with low shrinkage showed the highest mean PCM of all groups (78.1%). Significant differences in marginal seal were observed between the restoratives after bevel preparation (p < 0.05). Beveling significantly improved the PCM only for the hybrid composite (p < 0.05), whereby the effect on marginal seal was less pronounced. Conclusions: Clinicians should be aware that beveling mod-cavities does not necessarily improve the marginal quality of direct resin-based restorations bonded with well-established adhesives and may be more beneficial for traditional hybrid composites.",
+            "corpusId": 280948038,
+            "url": "https://api.semanticscholar.org/CorpusId:280948038"
+        },
+        {
+            "title": "Morphological assessment of the surface profile, mesiodistal diameter, and contact tightness of Class II composite restorations using three matrix systems: An in vitro study",
+            "authors":
+            [
+                {
+                    "name": "S. Kumari",
+                    "id": "46654412"
+                },
+                {
+                    "name": "Ramya Raghu",
+                    "id": "145897596"
+                },
+                {
+                    "name": "A. Shetty",
+                    "id": "144153762"
+                },
+                {
+                    "name": "Subhashini Rajasekhara",
+                    "id": "113761709"
+                },
+                {
+                    "name": "Souparnika Divakaran Padmini",
+                    "id": "2202681943"
+                }
+            ],
+            "year": 2022,
+            "venue": "Journal of Conservative Dentistry",
+            "score": 0.732327784610064,
+            "abstract": "Context: Sectional matrices and contact rings are valuable aids to establish proximal contact tightness in Class II composite restorations. Aims: This study aims to evaluate the proximal contact area in Class II composite restorations using three matrix systems based on morphological analysis, mesiodistal (M-D) diameter and contact tightness. Subjects and Methods: A standardized DO cavity was prepared in 30 plastic molar teeth. They were randomly divided into three groups (n = 10) and restored using Tetric N-Ceram composite material and three matrix systems – Saddle matrix, Palodent system, and Palodent Plus system. The quality of proximal contacts was assessed by measuring the maximum M-D diameter of the restored teeth using a digital caliper; the tightness of the proximal contact area using Unifloss and a standardized metal blade (30 μm). Qualitative assessment of contact morphology was done by visual means while quantitative assessment of contour was done using Medit scanner superimposing method and ExoCAD software. Statistical Analysis Used: One-way ANOVA test was used to compare the mean M-D diameter (in mm) in the occlusal third, middle third, and the proximal contact area between the three groups. Chi-square test was used to compare the proximal contact area tightness using the passage of Unifloss. The buccolingual and occluso-gingival morphology was also compared among the three groups. The level of significance (P value) was set at P < 0.05. Results: For the occlusal and middle third, significantly larger diameters were achieved with the Palodent Plus system than with the Saddle matrix. More flat contours were seen in the case of the Saddle matrix than in the case of the Palodent system while the Palodent Plus system exhibited a minimal depth of concavity as determined by three-dimensional imaging of the contact morphology. Conclusions: Palodent Plus and Palodent matrix systems established superior contacts and contours than the Saddle matrix.",
+            "corpusId": 254438284,
+            "url": "https://api.semanticscholar.org/CorpusId:254438284"
+        },
+        {
+            "title": "Impact of matrix systems on proximal contact tightness and surface geometry in class II direct composite restoration in-vitro",
+            "authors":
+            [
+                {
+                    "name": "Z. Tolba",
+                    "id": "1381134745"
+                },
+                {
+                    "name": "Ezzat Oraby",
+                    "id": "117396405"
+                },
+                {
+                    "name": "P. M. Abd El Aziz",
+                    "id": "2215314356"
+                }
+            ],
+            "year": 2023,
+            "venue": "BMC Oral Health",
+            "score": 0.7318479401174827,
+            "abstract": "Background Poor contact tightness and contour in class II composite restorations are significant problems in clinical practice. They affect occlusal stability and periodontal health. The aim of this study was to evaluate proximal contact tightness and contour established after completing class II direct composite restorations using two pre-contoured matrix systems. Methods Standardized mesio-occlusal cavities were prepared in twenty typodont lower right first permanent molar teeth. Prepared teeth were randomly divided into two groups according to matrix system: Group 1, Sectional matrix system with a separation ring (Palodent V3); and Group 2, Circumferential matrix system with integrated tightener (Palodent 360). Contact tightness was evaluated using universal testing machine. Area, depth and curvature radius of proximal surface concavity in the restoration were evaluated using contact stylus profilometer. T-test was used for comparison between groups. Results Sectional matrix showed higher contact tightness than circumferential matrix system. The results of proximal surface concavity in the restoration showed significantly higher area and depth of concavity with lower radius of curvature in circumferential matrix compared to sectional matrix. Conclusions The use of separation ring with sectional matrix provides superior contact tightness compared to circumferential matrix. However, both matrix systems presented some deficiency regarding proximal contour of direct class II resin composite restoration.",
+            "corpusId": 260384581,
+            "url": "https://api.semanticscholar.org/CorpusId:260384581"
+        },
+        {
+            "title": "Restoration of Proximal Contacts in Decayed Primary Molars Using Three Different Matrix Systems in Children Aged 5–9 Years: An In Vivo Study",
+            "authors":
+            [
+                {
+                    "name": "Murali K Dindukurthi",
+                    "id": "1471272091"
+                },
+                {
+                    "name": "J. Setty",
+                    "id": "4834289"
+                },
+                {
+                    "name": "I. Srinivasan",
+                    "id": "5800637"
+                },
+                {
+                    "name": "Anjana M Melwani",
+                    "id": "40446094"
+                },
+                {
+                    "name": "Kuthpady Manasa Hegde",
+                    "id": "2121417381"
+                },
+                {
+                    "name": "Sreeraksha Radhakrishna",
+                    "id": "83049469"
+                }
+            ],
+            "year": 2021,
+            "venue": "International Journal of Clinical Pediatric Dentistry",
+            "score": 0.7307093385794398,
+            "abstract": "Abstract Aims and objectives Proximal contacts and their interdigitation through occlusal contact with opposing teeth play a major role in children, for the eruption of permanent teeth into normal position. Determining the ideal matrix band system for proximal restorations helps in the construction of contacts and contours. This study is designed to determine the most suitable matrix band system for proximal restorations. Materials and methods A total of 96 proximal cavities were selected among patients aged 5–9 years and were equally divided into three groups. Group I: T-band, group II: ProMatrix, and group III: FenderMate. Pre- and postoperative radiographs were taken to evaluate carious lesions and restorations. Class II cavity was prepared and glass ionomer restorations were done using matrix systems. The efficacy of matrix bands was evaluated through the operator's questionnaire and postoperative radiographs. Results No statistical significance was found between the three matrix bands but FenderMate showed few clinical drawbacks that were statistically significant (p < 0.005). Interpretation and conclusion Matrix systems used in this study showed good results in restoring proximal contacts and contours. FenderMate showed few drawbacks when compared with the other two matrix systems. None of the matrix systems used in the present study were able to create 100% accurate proximal contacts and contours. How to cite this article Dindukurthi MK, Setty JV, Srinivasan I, et al. Restoration of Proximal Contacts in Decayed Primary Molars Using Three Different Matrix Systems in Children Aged 5–9 Years: An In Vivo Study. Int J Clin Pediatr Dent 2021;14(1):70–74.",
+            "corpusId": 236495564,
+            "url": "https://api.semanticscholar.org/CorpusId:236495564"
+        },
+        {
+            "title": "Effect of cavity preparation design and ceramic type on the stress distribution, strain and fracture resistance of CAD/CAM onlays in molars",
+            "authors":
+            [
+                {
+                    "name": "A.L.S.V. Vianna",
+                    "id": "116500473"
+                },
+                {
+                    "name": "C. J. Prado",
+                    "id": "9784461"
+                },
+                {
+                    "name": "A. A. Bicalho",
+                    "id": "152863793"
+                },
+                {
+                    "name": "R.A.S. Pereira",
+                    "id": "116212833"
+                },
+                {
+                    "name": "F. Neves",
+                    "id": "2571092"
+                },
+                {
+                    "name": "C. Soares",
+                    "id": "1744673"
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Applied Oral Science",
+            "score": 0.7295584034801333,
+            "abstract": "Abstract Objective This study aimed to evaluate the effect of the cavity preparation and ceramic type on the stress distribution, tooth strain, fracture resistance and fracture mode of human molar teeth restored with onlays. Material and Methods Forty-eight molars were divided into four groups (n=12) with assorted combinations of two study factors: BL- conventional onlay preparation with boxes made from leucite ceramic (IPS-Empress CAD, Ivoclar Vivadent); NBL- conservative onlay preparation without boxes made from leucite ceramic; BD- conventional onlay preparation with boxes made from lithium disilicate glass ceramic (IPS e.max CAD, Ivoclar Vivadent); NBL- conservative onlay preparation with boxes made from lithium disilicate glass ceramic cuspal deformation (µS) was measured at 100 N and at maximum fracture load using strain gauge. Fracture resistance (N) was measured using a compression test, and the fracture mode was recorded. Finite element analysis was used to evaluate the stress distribution by modified von Mises stress criteria. The tooth strain and fracture resistance data were analyzed using the Tukey test and two-way ANOVA, and the fracture mode was analyzed by the chi-square test (α=0.05). Results The leucite ceramic resulted in higher tooth deformation at 100 N and lower tooth deformation at the maximum fracture load than the lithium disilicate ceramic (P<0.001). The lithium disilicate ceramic exhibited higher fracture resistance than the leucite ceramic (P<0.001). The conservative onlay resulted in higher fracture strength for lithium disilicate ceramic. Finite element analysis results showed the conventional cavity preparation resulted in higher stress concentration in the ceramic restoration and remaining tooth than the conservative onlay preparation. The conservative onlays exhibited increased fracture resistance, reduced stress concentration and more favorable fracture modes. Conclusion Molars restored with lithium disilicate CAD-CAM ceramic onlays exhibited higher fracture resistance than molars restored with leucite CAD-CAM ceramic onlays.",
+            "corpusId": 52071286,
+            "url": "https://api.semanticscholar.org/CorpusId:52071286"
+        },
+        {
+            "title": "Alkasite restorative material for endodontically treated teeth: a randomized controlled pilot study",
+            "authors":
+            [
+                {
+                    "name": "Davi Ariel Nobuo Bepu",
+                    "id": "2125873568"
+                },
+                {
+                    "name": "R. S. Scatolin",
+                    "id": "5852985"
+                },
+                {
+                    "name": "Natalia Saud Junqueira Franco",
+                    "id": "2262305181"
+                },
+                {
+                    "name": "Luiza Pejon Sanchez",
+                    "id": "2308487622"
+                },
+                {
+                    "name": "A. Souza-Gabriel",
+                    "id": "1397392066"
+                },
+                {
+                    "name": "S. Corona",
+                    "id": "1990613649"
+                }
+            ],
+            "year": 2024,
+            "venue": "Restorative Dentistry & Endodontics",
+            "score": 0.729505104781271,
+            "abstract": "Objectives This study aimed to evaluate the clinical performance of an alkasite restorative material in molars that had undergone root canal treatment. Materials and Methods The research was registered in Brazilian Registry of Clinical Trials. The randomized clinical trial involved 33 patients, each with at least 1 mandibular molar requiring restoration after receiving endodontic treatment. Patients were randomly assigned to receive either bulk-fill resin composite (Tetric N Ceram Bulk Fill, Ivoclar Vivadent) or the alkasite restorative material (Cention N, Ivoclar Vivadent). Upon completion of the restorations, 3 calibrated professionals utilized the United States Public Health Service criteria to assess various factors, including retention, secondary caries, marginal adaptation, restoration color, marginal pigmentation, and anatomical form. Evaluations were conducted at intervals of 7 days, 6 months, and 17 months. Additionally, the assessment encompassed the presence of radiolucent lines adjacent to the restoration, material deficiencies or excess, contact points, and caries recurrence. The data underwent analysis using the Friedman and Mann-Whitney tests (α = 0.05). Results After 17 months, the results revealed that the alkasite restorative material exhibited greater wear of anatomical shape compared to the bulk-fill resin composite (p = 0.0189). Furthermore, the alkasite restorative material significantly differed from the natural tooth color in most cases (p = 0.0000). However, no other criteria displayed significant differences between the materials or over time (p > 0.05). Conclusions The alkasite restorative material (Cention N) emerges as a viable option for restoring endodontically treated teeth, displaying clinically acceptable alterations after a 17-month evaluation period. Trial Registration Brazilian Registry of Clinical Trials (ReBEC) Identifier: RBR-97kx5jv",
+            "corpusId": 270752342,
+            "url": "https://api.semanticscholar.org/CorpusId:270752342"
+        },
+        {
+            "title": "Use of Transparent Tips for Obtaining Tight Proximal Contacts in Direct Class II Composite Resin Restorations.",
+            "authors":
+            [
+                {
+                    "name": "V. Alonso",
+                    "id": "152618473"
+                },
+                {
+                    "name": "M. Caserio",
+                    "id": "35285273"
+                },
+                {
+                    "name": "I. Darriba",
+                    "id": "8642834"
+                }
+            ],
+            "year": 2019,
+            "venue": "Operative dentistry",
+            "score": 0.724139147183928,
+            "abstract": "",
+            "corpusId": 155090396,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/31084531"
+        },
+        {
+            "title": "Clinical Performance of Occlusal and Occlusoproximal Restorations in Primary Teeth Using Glass Ionomer Cement Without 25% Polyacrylic Acid Preconditioning: Protocol of a Randomized Controlled Non-Inferiority Clinical Trial With 2-Year Follow-Up",
+            "authors":
+            [
+                {
+                    "name": "Marcelle Maciel Fernandes de Azevedo",
+                    "id": "2374527363"
+                },
+                {
+                    "name": "Fabíola Fontes Galdino",
+                    "id": "2211969109"
+                },
+                {
+                    "name": "Thamires Teixeira",
+                    "id": "2261382356"
+                },
+                {
+                    "name": "V. Soviero",
+                    "id": "4537039"
+                },
+                {
+                    "name": "Tatiana Ks Fidalgo",
+                    "id": "2097310474"
+                }
+            ],
+            "year": 2025,
+            "venue": "Research, Society and Development",
+            "score": 0.7227698697076683,
+            "abstract": "",
+            "corpusId": 280482579,
+            "url": "https://doi.org/10.33448/rsd-v14i7.49164"
+        },
+        {
+            "title": "The use of rubber dam in the survival of RMGIC restorations in primary molars: a 30-month randomized controlled clinical trial",
+            "authors":
+            [
+                {
+                    "name": "Vanessa dos Santos Brum",
+                    "id": "2278114765"
+                },
+                {
+                    "name": "Maria Luiza Vieira Borges",
+                    "id": "2117701087"
+                },
+                {
+                    "name": "N. M. Santos",
+                    "id": "1753244405"
+                },
+                {
+                    "name": "Camila Kaufmann",
+                    "id": "2278116534"
+                },
+                {
+                    "name": "Jonas de Almeida Rodrigues",
+                    "id": "2257984622"
+                }
+            ],
+            "year": 2024,
+            "venue": "Brazilian Oral Research",
+            "score": 0.7197420639187029,
+            "abstract": "Abstract This study was a randomized controlled clinical trial with two parallel arms and the objective was to compare the survival of resin modified glass ionomer (RMGIC) restorations in primary teeth using rubber dam or cotton roll isolation after a 30-month follow-up period. Ninety-two children (mean age 6.8 ± 1.37) and 200 primary molars with occlusal or occluso-proximal cavitated dentin caries lesions were randomly assigned into two groups: cotton rolls and rubber dam. All lesions were restored using RMGIC (RIVA Light Cure) after selective caries removal. Restorative failure and lesion arrestment were evaluated by two independent, trained, and calibrated examiners through clinical and radiographic examinations. The Kaplan-Meier test was used to assess the survival of restorations and Cox regression was used to assess the association of risk factors with restorative failure. There was no significant difference in survival rates between groups (p = 0.17). Older age (HR = 2.81 [95%CI: 1.47–5.44]) and higher rate of gingival bleeding (HR = 0.47 [95%CI: 0.23–0.99]) were associated with restorative failure. No patient had painful symptoms, pulp outcomes, or radiographic changes compatible with lesion progression. The use of rubber dam isolation did not increase the survival rate of occlusal and occluso-proximal restorations using RMGIC in primary molars after 30 months of follow-up. Since the survival is not influenced by the type of isolation, the professional can safely choose the appropriate technique for each case, considering his experience and preferences, as well as those of the patient.",
+            "corpusId": 266799164,
+            "url": "https://pdfs.semanticscholar.org/5c79/9023d49e220b745e2f230edf94fba7a4481d.pdf"
+        },
+        {
+            "title": "Influence of resin and matrix systems on the three-dimensional geometry of reproduced proximal surfaces in Class II resin restorations of primary molars.",
+            "authors":
+            [
+                {
+                    "name": "Faisal S Alshehri",
+                    "id": "2274186265"
+                },
+                {
+                    "name": "J. Ye",
+                    "id": "2243419328"
+                },
+                {
+                    "name": "Mandy K Birkhoff",
+                    "id": "2385993166"
+                },
+                {
+                    "name": "Myeong-kwan Jih",
+                    "id": "78619144"
+                },
+                {
+                    "name": "Y. Chae",
+                    "id": "123231146"
+                },
+                {
+                    "name": "H. Lee",
+                    "id": "2383105561"
+                },
+                {
+                    "name": "Sung Chul Choi",
+                    "id": "2244026665"
+                },
+                {
+                    "name": "O. Nam",
+                    "id": "3682901"
+                }
+            ],
+            "year": 2025,
+            "venue": "Journal of Oral Science",
+            "score": 0.7192207148326683,
+            "abstract": "",
+            "corpusId": 282135666,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/41093575"
+        },
+        {
+            "title": "Stress distribution in premolars restored with inlays or onlays: 3D finite element analysis",
+            "authors":
+            [
+                {
+                    "name": "Hong-Seo Yang",
+                    "id": "6573558"
+                },
+                {
+                    "name": "Chan Park",
+                    "id": "2115236799"
+                },
+                {
+                    "name": "Jin-Ho Shin",
+                    "id": "2111246023"
+                },
+                {
+                    "name": "Kwi-dug Yun",
+                    "id": "66296333"
+                },
+                {
+                    "name": "Hyun-Pil Lim",
+                    "id": "4245719"
+                },
+                {
+                    "name": "Sangwon Park",
+                    "id": "2109429022"
+                },
+                {
+                    "name": "H. Chung",
+                    "id": "80091356"
+                }
+            ],
+            "year": 2018,
+            "venue": "The Journal of Advanced Prosthodontics",
+            "score": 0.7163360283924842,
+            "abstract": "PURPOSE To analyze stress distribution in premolars restored with inlays or onlays using various materials. MATERIALS AND METHODS Three-dimensional maxillary premolar models of abutments were designed to include the following: 1) inlay with O cavity (O group), 2) inlay with MO cavity (MO group), 3) inlay with MOD cavity (MOD group), and 4) onlay (ONLAY group). A restoration of each inlay or onlay cavity was simulated using gold alloy, e.max ceramic, or composite resin for restoration. To simulate masticatory forces, a total of 140 N static axial force was applied onto the tooth at the occlusal contact areas. A finite element analysis was performed to predict the magnitude and pattern of stresses generated by occlusal loading. RESULTS Maximum von Mises stress values generated in the abutment teeth of the ONLAY group were ranged from 26.1 to 26.8 MPa, which were significantly lower than those of inlay groups (O group: 260.3–260.7 MPa; MO group: 252.1–262.4 MPa; MOD group: 281.4–298.8 MPa). Maximum von Mises stresses generated with ceramic, gold, and composite restorations were 280.1, 269.9, and 286.6 MPa, respectively, in the MOD group. They were 252.2, 248.0, 255.1 MPa, respectively, in the ONLAY group. CONCLUSION The onlay design (ONLAY group) protected tooth structures more effectively than inlay designs (O, MO, and MOD groups). However, stress magnitudes in restorations with various dental materials exhibited no significant difference among groups (O, MO, MOD, ONLAY).",
+            "corpusId": 49340073,
+            "url": "https://api.semanticscholar.org/CorpusId:49340073"
+        },
+        {
+            "title": "One-year clinical evaluation of nanohybrid resin composite in the restoration of occlusal and proximo-occlusal cavities in Nigeria",
+            "authors":
+            [
+                {
+                    "name": "L. Enone",
+                    "id": "153748534"
+                },
+                {
+                    "name": "A. Awotile",
+                    "id": "84664901"
+                },
+                {
+                    "name": "C. Adegbulugbe",
+                    "id": "2372969981"
+                },
+                {
+                    "name": "L. Odogun",
+                    "id": "104011928"
+                },
+                {
+                    "name": "A. Oyapero",
+                    "id": "67261403"
+                }
+            ],
+            "year": 2017,
+            "venue": "unknown",
+            "score": 0.7053352167889984,
+            "abstract": "Background: This study aimed to evaluate the clinical performance of nanocomposites in a Nigerian adult population. Resin composites are becoming the preferred direct restorative material in restoring occlusal and proximo-occlusal cavities due to their aesthetic properties and good clinical service. Materials and Methods: This was a clinical study evaluating the clinical performance of a nanohybrid resin composite in the restoration of occlusal and proximo-occlusal cavities in Nigerian adults. This study was done in the Conservative Dentistry Clinic of the Lagos State University Teaching Hospital, Ikeja, from April 2014 to September 2015. The restorations were evaluated immediately at baseline, 3, 6 and 12 months postoperatively for colour match, marginal discolouration, surface roughness, anatomical form, marginal adaptation, retention, post-operative sensitivity and secondary caries using the modified USPHS criteria. Statistical analysis was performed using Fisher's exact test and a 5% level of significance was considered statistically significant. Results: Males had more proximo-occlusal (26.7) than occlusal (6.7) cavities while the females (43.3) had more occlusal cavities. The nanohybrid occlusal restorations had 100% alpha scores at baseline for anatomical form which dropped to 93.3% at 12 months with 6.7% of the restorations scoring Bravo, whereas all nanohybrid proximo-occlusal restorations had 100% alpha scores from baseline to the 12-month review. All occlusal and proximo-occlusal restorations evaluated for surface texture and marginal adaptation had alpha scores at baseline which dropped to 93.3% at 12 months. Conversely, all nanohybrid occlusal and proximo-occlusal restorations scored 100% for colour match and retention, sensitivity and secondary caries from baseline to 12 months. Conclusion: The clinical performance of natural elegance nanohybrid resin composite (Henry Schein®) was satisfactory in the restoration of occlusal and proximo-occlusal cavities in Nigerian adults over a 1 year evaluation period.",
+            "corpusId": 139910045,
+            "url": "https://api.semanticscholar.org/CorpusId:139910045"
+        },
+        {
+            "title": "Critical Review and Evaluation of Composite/Ceramic Onlaysversus Crowns",
+            "authors":
+            [
+                {
+                    "name": "F. Nikolopoulou",
+                    "id": "12881041"
+                },
+                {
+                    "name": "M. Loukidis",
+                    "id": "40253018"
+                }
+            ],
+            "year": 2014,
+            "venue": "unknown",
+            "score": 0.7046845212717467,
+            "abstract": "The purpose of this comprehensive review was to evaluate and identify the performance of composite/ceramic onlays versus crowns. The strength of the evidence is based on published trials, systematic reviews and observational studies. \nMethods: The dental literature was reviewed for controlled clinical studies and retrospective cross-sectional studies from 1966 to 2013. Longevity of onlay or crown is dependent upon many different factors, including material, patient-and dentist-related. Principal reasons for failure were secondary caries fractures, marginal deficiencies, wear and postoperative sensitivity. \nMinimally invasive dentistry, in cases in which it is appropriate, is a concept that preserves dentition, supports structures and involves low cost therapy.",
+            "corpusId": 11233081,
+            "url": "https://api.semanticscholar.org/CorpusId:11233081"
+        },
+        {
+            "title": "Survival rate of proximal-ART restorations using a two-layer technique for glass-ionomer insertion",
+            "authors":
+            [
+                {
+                    "name": "C. C.",
+                    "id": "2307941120"
+                }
+            ],
+            "year": 2012,
+            "venue": "unknown",
+            "score": 0.6974172052961071,
+            "abstract": "",
+            "corpusId": 222185955,
+            "url": "https://pure.uva.nl/ws/files/1871494/146168_13.pdf"
+        },
+        {
+            "title": "Survival rate of proximal-ART restorations using a two-layer technique for glass-ionomer insertion",
+            "authors":
+            [
+                {
+                    "name": "C. C.",
+                    "id": "2307941120"
+                }
+            ],
+            "year": 2012,
+            "venue": "unknown",
+            "score": 0.6974172052961071,
+            "abstract": "",
+            "corpusId": 221901465,
+            "url": "https://pure.uva.nl/ws/files/1871494/146168_13.pdf"
+        },
+        {
+            "title": "COMPARISON OF PROXIMAL IN VITRO TOOTH CONTACTS IN CLASS II RESTORATIONS WITH DIFFERENT RESTORATIVE MATERIALS AND CAVITY SIZES USING A NEW MEASUREMENT DEVICE",
+            "authors":
+            [
+                {
+                    "name": "Wen-Jen Chang",
+                    "id": "2856228"
+                },
+                {
+                    "name": "Yen-Hsiang Chang",
+                    "id": "3353421"
+                },
+                {
+                    "name": "Hsuan-Wen Wang",
+                    "id": "2109592040"
+                },
+                {
+                    "name": "Chun-Li Lin",
+                    "id": "3230030"
+                }
+            ],
+            "year": 2015,
+            "venue": "unknown",
+            "score": 0.6933433884099718,
+            "abstract": "",
+            "corpusId": 122672876,
+            "url": "https://doi.org/10.1142/S0219519415500578"
+        },
+        {
+            "title": "Occlusal considerations in maintaining health of implants and their restorations",
+            "authors":
+            [
+                {
+                    "name": "Charlotte Stilwell",
+                    "id": "2247141329"
+                }
+            ],
+            "year": 2024,
+            "venue": "British Dental Journal",
+            "score": 0.6314514007011223,
+            "abstract": "Dental implants are a regular feature in daily clinical practice and there is a need to undertake routine assessment and maintenance of implants and their restorations on par with that provided for natural teeth. Occlusal checks form an important part of the maintenance regime for preserving the integrity of implants, their restorations, and health of the peri-implant tissues. Implant restorations are subjected to the full characteristics and magnitude of occlusal forces, including those associated with parafunction. Compared with the periodontal ligament around teeth, the biophysical response to occlusal forces of osseointegration is different through the more rigid link of implant to bone and reduced proprioception. Risks attributable to occlusal forces primarily affect implant restorations and they are elevated in the presence of bruxism. The occlusal guidelines recommended by the literature are aimed at reducing these risks and regular assessment and maintenance of the occlusion is essential. A four-step sequence is presented to ensure that the annual occlusal checks include the patient's input and evaluation of restoration integrity, occlusal scheme, additional protection, and spatial changes. This paper provides an overview of recommended occlusal checks as part of an annual maintenance regime for dental implants, their restorations and peri-implant tissues. The literature suggests that hardware complications are the main risks arising from the biophysical properties of osseointegration and consequent response to occlusal forces. For completeness, the occlusal checks can be approached in a four-step sequence to include the patient's input as well as evaluation of restoration integrity, occlusal scheme, additional protection, and spatial changes. This paper provides an overview of recommended occlusal checks as part of an annual maintenance regime for dental implants, their restorations and peri-implant tissues. The literature suggests that hardware complications are the main risks arising from the biophysical properties of osseointegration and consequent response to occlusal forces. For completeness, the occlusal checks can be approached in a four-step sequence to include the patient's input as well as evaluation of restoration integrity, occlusal scheme, additional protection, and spatial changes.",
+            "corpusId": 270002878,
+            "url": "https://doi.org/10.1038/s41415-024-7407-7"
+        },
+        {
+            "title": "Digitized thermo-responsive shape memory matrix band for tooth restorations",
+            "authors":
+            [
+                {
+                    "name": "Chao Liu",
+                    "id": "2341792613"
+                },
+                {
+                    "name": "Qin Huang",
+                    "id": "2210134644"
+                },
+                {
+                    "name": "Bin Feng",
+                    "id": "2257693459"
+                },
+                {
+                    "name": "Guanchen Ye",
+                    "id": "2054255703"
+                },
+                {
+                    "name": "Yu Wang",
+                    "id": "2153607075"
+                },
+                {
+                    "name": "Tianer Zhu",
+                    "id": "51200724"
+                },
+                {
+                    "name": "Junjie Wu",
+                    "id": "2196032996"
+                },
+                {
+                    "name": "Lining Lin",
+                    "id": "2341289869"
+                },
+                {
+                    "name": "D. You",
+                    "id": "22558757"
+                },
+                {
+                    "name": "Haiping Yang",
+                    "id": "2290385014"
+                },
+                {
+                    "name": "Weifang Zhang",
+                    "id": "2296229178"
+                }
+            ],
+            "year": 2025,
+            "venue": "Scientific Reports",
+            "score": 0.6142463281481445,
+            "abstract": "Direct resin restoration has been widely used to restore the tooth defect for its convenience and minimal invasion. However, the accuracy of the final contour of class II restoration is often unpredictable and quite technique-sensitive due to the limitation of traditional matrix band system. In this study, the authors developed a novel matrix band system using shape memory polymer (SMP), which possessed two reversible shapes including digitized permanent shape to reproduce anatomical proximal contour and programmable temporary shape for clinical practice and reservation. The permanent shape could be designed and customized in software or retrieved from imaging database collected from large general population. Only warm saline or water was needed to trigger the shape transformation without any auxiliary tools. The results of in vitro class II restoration showed the shape memory matrix bands brought the best proximal profile and contact point, compared to traditional metal matrix and sectional matrix. The novel shape memory matrix system represents the comfortable, precise, and minimally invasive trend of dentistry and has a broad industrialization prospect as a dental instrument.",
+            "corpusId": 275755118,
+            "url": "https://api.semanticscholar.org/CorpusId:275755118"
+        },
+        {
+            "title": "Study protocol for a diagnostic randomized clinical trial to evaluate the effect of the use of two clinical criteria in the assessment of caries lesions around restorations in adults: the Caries Cognition and Identification in Adults (CaCIA) trial",
+            "authors":
+            [
+                {
+                    "name": "C. Signori",
+                    "id": "14684938"
+                },
+                {
+                    "name": "B. L. Moro",
+                    "id": "28282240"
+                },
+                {
+                    "name": "J. Uehara",
+                    "id": "147168403"
+                },
+                {
+                    "name": "V. H. D. Romero",
+                    "id": "148315572"
+                },
+                {
+                    "name": "E. F. de Oliveira",
+                    "id": "13036173"
+                },
+                {
+                    "name": "M. Braga",
+                    "id": "3124145"
+                },
+                {
+                    "name": "F. Mendes",
+                    "id": "5189783"
+                },
+                {
+                    "name": "M. Cenci",
+                    "id": "2777757"
+                }
+            ],
+            "year": 2020,
+            "venue": "BMC Oral Health",
+            "score": 0.6134896517146232,
+            "abstract": "Background The assessment of restored teeth in dentistry remains a challenge, mainly related to the detection of caries around restorations. There is a diversity of clinical criteria available to assess the caries lesions, resulting in differences in the dentists’ diagnosis and treatment decisions. In addition, there is a lack of evidence regarding the best criteria to detect caries lesions around the restorations. Thus, the present protocol aims to evaluate the effect of using 2 visual criteria to assess restored teeth on the outcomes related to oral health in adults. Methods The design protocol of the Caries Cognition and Identification in Adults trial correspond to a triple-blind randomized, controlled clinical trial with parallel-groups. Two groups will be compared: patients who will receive the diagnosis and treatment decision according to FDI (World Dental Federation) criteria—FDI group; and patients who will receive diagnosis and treatment decision according to the “Caries Associated with Restorations or Sealants” criteria defined by the International Caries Classification and Management System (ICCMS group). The participants will be followed up after 6, 12, 18, 24, and 60 months, and the restoration failure will be the primary outcome. The analysis will be conducted through Cox regression with shared frailty. The impact of oral health on quality of life and the cost-effectiveness of the methods used will be the secondary outcomes. Two-tailed analyzes will be used, considering a level of significance of 5%. Discussion This is the first clinical trial to assess the effect of using two visual methods to detect caries lesions around restorations on the outcomes related to oral health in adults. The findings of this study will define what is the best diagnostic strategy for the assessment of caries around restorations in permanent teeth. Trial registration NCT03108586 (registered 11 April 2017).",
+            "corpusId": 226292220,
+            "url": "https://api.semanticscholar.org/CorpusId:226292220"
+        },
+        {
+            "title": "Study protocol for a diagnostic randomized clinical trial to evaluate the effect of the use of two clinical criteria in the assessment of caries lesions around restorations in adults: the Caries Cognition and Identification in Adults (CaCIA) trial",
+            "authors":
+            [
+                {
+                    "name": "C. Signori",
+                    "id": "14684938"
+                },
+                {
+                    "name": "B. L. Moro",
+                    "id": "28282240"
+                },
+                {
+                    "name": "J. Uehara",
+                    "id": "147168403"
+                },
+                {
+                    "name": "V. H. D. Romero",
+                    "id": "148315572"
+                },
+                {
+                    "name": "E. F. de Oliveira",
+                    "id": "13036173"
+                },
+                {
+                    "name": "M. Braga",
+                    "id": "3124145"
+                },
+                {
+                    "name": "F. Mendes",
+                    "id": "5189783"
+                },
+                {
+                    "name": "M. Cenci",
+                    "id": "2777757"
+                },
+                {
+                    "name": "A. B. L. de Queiroz",
+                    "id": "2077441564"
+                },
+                {
+                    "name": "Alessandra B. de Avila",
+                    "id": "2200938058"
+                },
+                {
+                    "name": "Bruna O. Souza",
+                    "id": "2159646236"
+                },
+                {
+                    "name": "C. Signori",
+                    "id": "14684938"
+                },
+                {
+                    "name": "C. R. Dias",
+                    "id": "37111569"
+                },
+                {
+                    "name": "Camila T. Becker",
+                    "id": "2159646961"
+                },
+                {
+                    "name": "E. T. Chaves",
+                    "id": "2056968786"
+                },
+                {
+                    "name": "Eugênia C. Malhão",
+                    "id": "2159645748"
+                },
+                {
+                    "name": "E. F. de Oliveira",
+                    "id": "13036173"
+                },
+                {
+                    "name": "J. Uehara",
+                    "id": "147168403"
+                },
+                {
+                    "name": "F. G. da Silva",
+                    "id": "2086439858"
+                },
+                {
+                    "name": "F. S. D. da Silva",
+                    "id": "2200897174"
+                },
+                {
+                    "name": "Gabriel V. Lima Kucharski",
+                    "id": "2200938969"
+                },
+                {
+                    "name": "Gabriele R. dos Santos",
+                    "id": "2200939090"
+                },
+                {
+                    "name": "J. M. Torres",
+                    "id": "2159693786"
+                },
+                {
+                    "name": "K. Pinto",
+                    "id": "38921082"
+                },
+                {
+                    "name": "L. L. Morel",
+                    "id": "84722131"
+                },
+                {
+                    "name": "Leonardo B. Weymar",
+                    "id": "2159645930"
+                },
+                {
+                    "name": "M. Brod",
+                    "id": "2159645932"
+                },
+                {
+                    "name": "M. F. Gamborgi",
+                    "id": "2159646016"
+                },
+                {
+                    "name": "M. Cenci",
+                    "id": "2777757"
+                }
+            ],
+            "year": 2020,
+            "venue": "BMC Oral Health",
+            "score": 0.6122919354946804,
+            "abstract": "The assessment of restored teeth in dentistry remains a challenge, mainly related to the detection of caries around restorations. There is a diversity of clinical criteria available to assess the caries lesions, resulting in differences in the dentists’ diagnosis and treatment decisions. In addition, there is a lack of evidence regarding the best criteria to detect caries lesions around the restorations. Thus, the present protocol aims to evaluate the effect of using 2 visual criteria to assess restored teeth on the outcomes related to oral health in adults. The design protocol of the Caries Cognition and Identification in Adults trial correspond to a triple-blind randomized, controlled clinical trial with parallel-groups. Two groups will be compared: patients who will receive the diagnosis and treatment decision according to FDI (World Dental Federation) criteria—FDI group; and patients who will receive diagnosis and treatment decision according to the “Caries Associated with Restorations or Sealants” criteria defined by the International Caries Classification and Management System (ICCMS group). The participants will be followed up after 6, 12, 18, 24, and 60 months, and the restoration failure will be the primary outcome. The analysis will be conducted through Cox regression with shared frailty. The impact of oral health on quality of life and the cost-effectiveness of the methods used will be the secondary outcomes. Two-tailed analyzes will be used, considering a level of significance of 5%. This is the first clinical trial to assess the effect of using two visual methods to detect caries lesions around restorations on the outcomes related to oral health in adults. The findings of this study will define what is the best diagnostic strategy for the assessment of caries around restorations in permanent teeth. Trial registration NCT03108586 (registered 11 April 2017).",
+            "corpusId": 255841456,
+            "url": "https://api.semanticscholar.org/CorpusId:255841456"
+        },
+        {
+            "title": "Enhancing proximal contact assessment: a reproducible, clinically applicable chairside classification system- a cross-sectional observational study",
+            "authors":
+            [
+                {
+                    "name": "S. S",
+                    "id": "2127824461"
+                },
+                {
+                    "name": "Maithili Muthamma Km",
+                    "id": "2405658515"
+                },
+                {
+                    "name": "Chaithra Lakshmi V",
+                    "id": "2405658518"
+                },
+                {
+                    "name": "Mithra N. Hegde",
+                    "id": "2270880023"
+                }
+            ],
+            "year": 2026,
+            "venue": "BMC Oral Health",
+            "score": 0.6114455954404763,
+            "abstract": "Achieving optimal proximal contacts and marginal integrity is crucial for the success and longevity of dental restorations. This cross-sectional observational in-vivo study aimed to (i) propose a standardized classification index for evaluating proximal contact tightness using dental floss, and (ii) assess the quality of proximal contacts and marginal integrity in various types of direct and indirect restorations using the proposed classification. In this cross – sectional observational study, 344 teeth with diverse restorations (crowns, GIC, composite, amalgam) in posterior teeth were evaluated. Proximal contacts were assessed visually and by tactile methods using a novel index that is standardized. Marginal integrity was assessed using the USPHS-modified criteria. Categories Alpha, Bravo, Charlie, and Delta were used to evaluate restoration performance. Proximal contacts were categorized as open, tight, appropriate, or poor. Marginal integrity was categorized as excellent, acceptable, requirement of clinical intervention and unacceptable. Statistical analyses explored associations between contact/integrity and restoration type, restoration surface, and other factors. The prevalence of restorations with appropriate proximal contacts was 34.6%, followed by tight (28.5%), open (24.1%), and poor (12.8%). Crowns exhibited the highest frequency of appropriate contacts (47.4%), followed by GIC (Glass Ionomer Cement) (24.7%), composite (13.4%), and amalgam (14.5%). A substantial amount of the restorations was categorized as acceptable (51.5%) for marginal integrity. 38.9% of the restorations were categorized as charlie, suggestive of repair of the restoration to prevent marginal leakage. Only 8.1% of the restorations were categorized as excellent and 1.5% as unacceptable. A statistically significant association was found between proximal contact tightness and restoration type (p = 0.034), with crowns showcasing superior contact compared to direct restorations. Additionally, a significant association existed between contact tightness and restoration surface involved, with mesio-occlusal surfaces demonstrating more appropriate contacts than distal surfaces. It was seen that single crowns had the most acceptable marginal integrity [n = 110], followed by GIC [n = 50], amalgam [n = 50] and then composite [n = 20]. There is a statistically significant association between marginal integrity and type of restoration. A standardized index has been evaluated and this was applied to obtain outcome measures in a quantitative manner. The results suggest that single crowns showed maximum appropriate contacts. Single crowns also had the most acceptable marginal integrity, followed by GIC, amalgam and then composite. This shows that indirect restorations show superior proximal contact and marginal integrity as compared to direct restorations. There is a statistically significant association between the proximal contact and the restoration surface involved.",
+            "corpusId": 284883289,
+            "url": "https://api.semanticscholar.org/CorpusId:284883289"
+        },
+        {
+            "title": "Morphological analysis of proximal contacts in class II direct restorations with 3D image reconstruction.",
+            "authors":
+            [
+                {
+                    "name": "S. Chuang",
+                    "id": "48969525"
+                },
+                {
+                    "name": "Kuo-Chih Su",
+                    "id": "37723446"
+                },
+                {
+                    "name": "Chun-Hsiang Wang",
+                    "id": "2201459817"
+                },
+                {
+                    "name": "Chih-Han Chang",
+                    "id": "1877247"
+                }
+            ],
+            "year": 2011,
+            "venue": "E -journal of dentistry",
+            "score": 0.6105010128773881,
+            "abstract": "",
+            "corpusId": 28167610,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/21504778"
+        },
+        {
+            "title": "Fracture load and failure mode of semi-direct resin composite occlusal veneers: Influence of design and mechanical cycling.",
+            "authors":
+            [
+                {
+                    "name": "W. F. Martins",
+                    "id": "2058698699"
+                },
+                {
+                    "name": "C. S. S. Coelho",
+                    "id": "108165137"
+                },
+                {
+                    "name": "F. Amaral",
+                    "id": "7350613"
+                },
+                {
+                    "name": "F. França",
+                    "id": "144477952"
+                },
+                {
+                    "name": "C. Turssi",
+                    "id": "144045977"
+                },
+                {
+                    "name": "V. Cavalli",
+                    "id": "3875694"
+                },
+                {
+                    "name": "R. Basting",
+                    "id": "4108369"
+                }
+            ],
+            "year": 2023,
+            "venue": "Journal of The Mechanical Behavior of Biomedical Materials",
+            "score": 0.606826575028072,
+            "abstract": "",
+            "corpusId": 259173559,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/37320893"
+        },
+        {
+            "title": "Proximal contact loss between implant-supported prostheses and adjacent natural teeth: a clinical report.",
+            "authors":
+            [
+                {
+                    "name": "P. Wat",
+                    "id": "3171444"
+                },
+                {
+                    "name": "Anita T Y Wong",
+                    "id": "83871212"
+                },
+                {
+                    "name": "K. Leung",
+                    "id": "35659568"
+                },
+                {
+                    "name": "E. Pow",
+                    "id": "2633602"
+                }
+            ],
+            "year": 2011,
+            "venue": "The Journal of prosthetic dentistry (Print)",
+            "score": 0.6015216818948206,
+            "abstract": "",
+            "corpusId": 29521796,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/21194581"
+        },
+        {
+            "title": "Proximal Contact Repair of Complex Amalgam Restorations.",
+            "authors":
+            [
+                {
+                    "name": "M. N. Zguri",
+                    "id": "13002181"
+                },
+                {
+                    "name": "J. Casey",
+                    "id": "152803892"
+                },
+                {
+                    "name": "J. Jessup",
+                    "id": "143940188"
+                },
+                {
+                    "name": "K. Vandewalle",
+                    "id": "4095833"
+                }
+            ],
+            "year": 2017,
+            "venue": "Operative dentistry",
+            "score": 0.5867320289860223,
+            "abstract": "",
+            "corpusId": 4904539,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/28080293"
+        },
+        {
+            "title": "Depth of cure of proximal composite resin restorations using a new perforated metal matrix.",
+            "authors":
+            [
+                {
+                    "name": "D. P. Nguyen",
+                    "id": "41022274"
+                },
+                {
+                    "name": "N. C. Motyka",
+                    "id": "41016707"
+                },
+                {
+                    "name": "E. Meyers",
+                    "id": "39858908"
+                },
+                {
+                    "name": "K. Vandewalle",
+                    "id": "4095833"
+                }
+            ],
+            "year": 2018,
+            "venue": "General dentistry",
+            "score": 0.5860049329054262,
+            "abstract": "",
+            "corpusId": 14056098,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29714704"
+        },
+        {
+            "title": "Digital Protocol to Record Occlusal Analysis in Prosthodontics: A Pilot Study",
+            "authors":
+            [
+                {
+                    "name": "Emanuele Risciotti",
+                    "id": "2289225588"
+                },
+                {
+                    "name": "Nino Squadrito",
+                    "id": "14211673"
+                },
+                {
+                    "name": "Daniele Montanari",
+                    "id": "2185694878"
+                },
+                {
+                    "name": "Gaetano Iannello",
+                    "id": "2266547083"
+                },
+                {
+                    "name": "U. Macca",
+                    "id": "14113966"
+                },
+                {
+                    "name": "M. Tallarico",
+                    "id": "12013178"
+                },
+                {
+                    "name": "G. Cervino",
+                    "id": "47913103"
+                },
+                {
+                    "name": "L. Fiorillo",
+                    "id": "143865120"
+                }
+            ],
+            "year": 2024,
+            "venue": "Journal of Clinical Medicine",
+            "score": 0.571199020645964,
+            "abstract": "Background: Digital technologies enable the accurate replication of occlusion, which is pivotal for stability in maximum intercuspation and dynamic occlusion. CAD softwares generates standardized occlusal morphologies requiring significant adjustments. The consideration of individual mandibular movements during restoration leads to better functional integration. This pilot study evaluates the efficacy of a novel, fully digital protocol for occlusal analysis recording in prosthodontics. Methods: Patients needing single or multiple metal-free restorations were included. Teeth underwent horizontal finish line preparation, while restorations on implants were either directly screwed or used multi-unit abutments. A digital impression (Trios 3 Intraoral Scanner) captured the mouth’s elements. Dynamic occlusion was recorded via Patient Specific Motion (PSM). After the placement and functionalization of temporary restorations, subsequent scans included various elements, and CAD software (Dental system) was used for the restoration design. Restorations were milled in monolithic zirconia, pressed from CAD/CAM-milled wax, and sintered. Results: An evaluation of 52 restorations in 37 patients indicated high accuracy in restorations manufactured via the fully digital workflow. Monolithic zirconia was predominantly used. Subtractive (17.3%) and additive (7.7%) occlusal adjustments were mainly chairside. Conclusion: This study underscores the efficacy of meticulous verification measures and a centric contact system in reducing the need for clinical occlusal refinements in prosthetic restorations.",
+            "corpusId": 268136944,
+            "url": "https://api.semanticscholar.org/CorpusId:268136944"
+        },
+        {
+            "title": "Clinical Performance and Wear Resistance of Highly Translucent Nano Zirconia Reinforced Glass Ionomer Filling Versus Conventional Resin Composite Restorations in Patients with Proximal Carious Teeth: Randomized Clinical Trial",
+            "authors":
+            [
+                {
+                    "name": "Weaam Mohamed Ammar",
+                    "id": "2295010055"
+                },
+                {
+                    "name": "Rawda Hesham A ElAziz",
+                    "id": "2295014041"
+                },
+                {
+                    "name": "Ahmed Zohair El-Hoshy",
+                    "id": "2295017467"
+                }
+            ],
+            "year": 2024,
+            "venue": "Journal of Stomatology &amp; Dental Research",
+            "score": 0.5492472504562163,
+            "abstract": "",
+            "corpusId": 268910391,
+            "url": "https://doi.org/10.61440/jsdr.2024.v2.06"
+        },
+        {
+            "title": "Depth of Cure of Proximal Composite Restorations using a New Perforated Metal Matrix",
+            "authors":
+            [
+                {
+                    "name": "D. P. Nguyen",
+                    "id": "41022274"
+                },
+                {
+                    "name": "N. C. Motyka",
+                    "id": "41016707"
+                },
+                {
+                    "name": "E. Meyers",
+                    "id": "39858908"
+                },
+                {
+                    "name": "K. Vandewalle",
+                    "id": "4095833"
+                }
+            ],
+            "year": 2016,
+            "venue": "unknown",
+            "score": 0.5268352285548903,
+            "abstract": "",
+            "corpusId": 139111410,
+            "url": "https://api.semanticscholar.org/CorpusId:139111410"
+        },
+        {
+            "title": "The mesial–mesial/distal–distal (MM-DD) occlusal adjustment technique: A 2–21.5-year retrospective study on preventing open contacts in posterior implant restorations",
+            "authors":
+            [
+                {
+                    "name": "Chiun-Lin Steven Liu",
+                    "id": "2363105214"
+                },
+                {
+                    "name": "Shih-Cheng Wen",
+                    "id": "2374432689"
+                },
+                {
+                    "name": "Ching-Jung Chang Chien",
+                    "id": "2363103229"
+                },
+                {
+                    "name": "Je-Kang Du",
+                    "id": "2242175649"
+                }
+            ],
+            "year": 2025,
+            "venue": "Journal of Dental Sciences",
+            "score": 0.5168950381469041,
+            "abstract": "Background/purpose Open contacts adjacent to posterior dental implants are a common clinical complication, often resulting in food impaction, discomfort, and periodontal deterioration. This study aimed to evaluate the long-term clinical effectiveness of the mesial–mesial/distal–distal (MM-DD) occlusal adjustment technique in preventing open contacts adjacent to posterior implant restorations. Materials and methods This retrospective study analyzed 124 single-tooth posterior implants in 100 patients over a 2–21.5-year follow-up period. The MM-DD technique involved selectively modifying occlusal contacts on the mesial occlusal surface of the mesial adjacent tooth and the distal occlusal surface of the distal adjacent tooth to influence mesial tooth movement and maintain proximal contact with implant restorations. Clinical and radiographic data were assessed for contact integrity, food impaction, discomfort, bone levels, and other outcomes. A control group with conventional occlusal adjustment was included for comparison. Results The MM-DD group demonstrated a significantly lower incidence of open contacts (2.7 %) compared to the control group (46.7 %, P <0.001). Patients treated with the MM-DD technique reported reduced food impaction and lower discomfort scores, with less proximal bone loss around adjacent teeth. Kaplan–Meier analysis showed high rates of long-term contact stability in the MM-DD group, with 96.2 % of contacts remaining intact at 15 years. Conclusion With its straightforward application, sound biological foundation, and minimal need for specialized equipment, the MM-DD technique presents a practical and effective solution for preserving proximal contact in posterior implants and is well-suited for widespread adoption in daily dental practice.",
+            "corpusId": 280307137,
+            "url": "https://api.semanticscholar.org/CorpusId:280307137"
+        },
+        {
+            "title": "Evaluation of Fracture Strength of Fiber-Reinforced Direct Composite Resin Restorations: An In Vitro Study",
+            "authors":
+            [
+                {
+                    "name": "N. Albar",
+                    "id": "2044762158"
+                },
+                {
+                    "name": "Waad Khayat",
+                    "id": "19285459"
+                }
+            ],
+            "year": 2022,
+            "venue": "Polymers",
+            "score": 0.5052214633951695,
+            "abstract": "This in vitro study aimed to compare the fracture strength of direct non-reinforced class II composite resin restorations and polyethylene fiber-reinforced restorations, and also to investigate the influence of the locations of polyethylene fibers within the cavity on the fracture strength. Sixty freshly extracted human teeth were disinfected and prepared (class II cavity design). The teeth were assigned randomly into four groups (n = 13). Group I (control) was restored with nano-hybrid composite resin. The other three experimental groups were restored with the same composite resin material reinforced by polyethylene fibers (Ribbond) at different locations. Fibers were placed either on the axial wall (Group II), on the gingival floor (Group III), or on the axial wall and pulpal/gingival floor (Group IV) of the proximal cavity. All the teeth were subjected to thermocycling to simulate the oral environment. The fracture strength was measured using a universal testing machine. Group IV had the highest mean fracture strength at maximum load (148.74 MPa), followed by Group II (140.73 MPa), Group III (136.34 MPa), and Group I (130.08 MPa), with a statistically significant difference from the control group (p = 0.008) but not between groups II and III.",
+            "corpusId": 252984399,
+            "url": "https://api.semanticscholar.org/CorpusId:252984399"
+        },
+        {
+            "title": "Evaluation of Matrix Systems on the Proximal Contact of Class II Composite Restorations: A Systematic Review",
+            "authors":
+            [
+                {
+                    "name": "Renad Alshardan",
+                    "id": "2275671578"
+                },
+                {
+                    "name": "Amani Rozi",
+                    "id": "2275685508"
+                },
+                {
+                    "name": "Dana Alsenan",
+                    "id": "2275676745"
+                },
+                {
+                    "name": "Aseel Rozi",
+                    "id": "2280291046"
+                },
+                {
+                    "name": "B. Aljohani",
+                    "id": "2313205024"
+                },
+                {
+                    "name": "Jana Almusallam",
+                    "id": "2275672544"
+                },
+                {
+                    "name": "Njoud Alateeq",
+                    "id": "2275684956"
+                }
+            ],
+            "year": 2023,
+            "venue": "Cureus",
+            "score": 0.5045791025235766,
+            "abstract": "When restoring proximal surfaces in posterior teeth, dentists frequently encounter the difficulty of reproducing the proximal contact that is naturally present in unrestored teeth. In order to guarantee the durability of restorations made from class II composite resin, it is imperative that both functional and aesthetic requirements are met. This entails the choice of the matrix system that replicates the optimal proximal contact subsequent to the insertion of restorations made of class II composite resin. The objective of this systematic review is to assemble current research conducted on the various matrix systems utilized in class II composite restorations and assess their impact on the pre-existing composite proximal contact. Three examiners conducted an independent electronic search utilizing the subsequent databases: Web of Science, Cochrane Library, Scopus, PubMed, and Embase. Publications on proximal contact in class II composite restorations were compiled from the time of their inception until August 2022, in accordance with predetermined inclusion and exclusion criteria. The methodological quality assessment was conducted utilizing the Effective Public Health Practice Project (EPHPP) instrument. Among the six studies that were included, it was observed that the sectional matrix system generated greater proximal contact tightness than the circumferential matrix system (Tofflemire). However, no significant distinction was found between the metal and polyester matrix systems. In contrast to alternative circumferential matrix systems, the utilization of a sectional matrix system yields a statistically significant improvement in the optimum proximal contact of class II composite restorations, according to the studies.",
+            "corpusId": 266444354,
+            "url": "https://api.semanticscholar.org/CorpusId:266444354"
+        },
+        {
+            "title": "Clinical performance of a glass-hybrid system in comparison with a resin composite in two-surface class II restorations: a 5-year randomised multi-centre study",
+            "authors":
+            [
+                {
+                    "name": "Ivana Miletić",
+                    "id": "2256104462"
+                },
+                {
+                    "name": "A. Baraba",
+                    "id": "6332997"
+                },
+                {
+                    "name": "Silvana Jukić Krmek",
+                    "id": "5825275"
+                },
+                {
+                    "name": "T. Perić",
+                    "id": "1718780"
+                },
+                {
+                    "name": "D. Markovic",
+                    "id": "144084005"
+                },
+                {
+                    "name": "Matteo Basso",
+                    "id": "2279907750"
+                },
+                {
+                    "name": "Cigdem Atalayin Ozkaya",
+                    "id": "1708210809"
+                },
+                {
+                    "name": "H. Kemaloğlu",
+                    "id": "3763511"
+                },
+                {
+                    "name": "L. S. Turkun",
+                    "id": "15224806"
+                }
+            ],
+            "year": 2024,
+            "venue": "Clinical Oral Investigations",
+            "score": 0.5007377968147331,
+            "abstract": "Objective To evaluate the 5-year clinical performance of a glass hybrid restorative system and a nano-hybrid resin composite in moderate to large two-surface class II cavities. Materials and methods This study was carried out by dental schools in Zagreb, Croatia; Izmir, Turkey; Belgrade, Serbia; and Milan, Italy. A total of 180 patients requiring two class-II two-surface restorations in the molars of the same jaw were recruited. The teeth were randomly restored with either a nano-hybrid resin composite (Tetric EvoCeram, Ivoclar Vivadent) or a glass-hybrid material (EQUIA Forte, GC). During the 5-year follow-up, two calibrated evaluators at each centre scored the restorations annually using the FDI-2 scoring system. The survival rates were calculated using the Kaplan–Meier method and compared using non-parametric matched pair tests ( p < 0.05). Results There were no statistically significant differences between the overall survival and success rates of the two types of restorations (p>0.05). The success rates (FDI-2 scores 1–3) for EQUIA Forte were 81.9% (average annual failure rate: 3.9%) and 90.7% for Tetric EvoCeram (average annual failure rate: 1.9%). The survival rates (FDI-2 scores 1–4) for EQUIA Forte and Tetric EvoCeram were 94.5% and 94.4%, respectively, with an average annual failure rate of 1.1%. Conclusions In terms of success and survival rates, both the glass-hybrid restorative system and the nano-hybrid resin composite have been shown to perform satisfactorily. Clinical relevance The results of this study indicate that EQUIA Forte can be one of the therapeutic options for moderate to large two-surface class II restorations of posterior teeth.",
+            "corpusId": 267042607,
+            "url": "https://api.semanticscholar.org/CorpusId:267042607"
+        },
+        {
+            "title": "All-Ceramic Inlay-Retained Fixed Dental Prosthesis: A Case Report",
+            "authors":
+            [
+                {
+                    "name": "Sirine Limem",
+                    "id": "2161998666"
+                },
+                {
+                    "name": "R. Dakhli",
+                    "id": "1581310045"
+                },
+                {
+                    "name": "Amal Esghir",
+                    "id": "2134789583"
+                },
+                {
+                    "name": "Nouha M’ghirbi",
+                    "id": "116145821"
+                },
+                {
+                    "name": "Sihem Hajjeji",
+                    "id": "2161998730"
+                },
+                {
+                    "name": "H. Hajjami",
+                    "id": "1394854855"
+                }
+            ],
+            "year": 2022,
+            "venue": "Scholars Journal of Medical Case Reports",
+            "score": 0.49999981432488916,
+            "abstract": "Different restoration options are available for replacing a single missing tooth on the posterior region; full coverage fixed dental prostheses, implant-supported crown and inlay-retained fixed dental prostheses (IRFDPs). In fact, this last achieve an esthetically and functionally good result, and present almost reversible treatment given that, the preparation is conservative preserving dental and gingival tissues. Thus, it can be concluded that all-ceramic inlay retained fixed dental prostheses are an esthetic option that can be recommended as viable short- or middle-term minimally invasive restoration. Case selection, material choice, preparation design and luting procedures are determinant factors of success. This paper aimed to discuss through a case report, the material and the preparation design of all-ceramic inlay-retained fixed dental prostheses.",
+            "corpusId": 248076610,
+            "url": "https://api.semanticscholar.org/CorpusId:248076610"
+        },
+        {
+            "title": "Modern perspective of indirect restorations: Two case reports",
+            "authors":
+            [
+                {
+                    "name": "Somya Jain",
+                    "id": "48326557"
+                },
+                {
+                    "name": "Neetu Jindal",
+                    "id": "10801970"
+                },
+                {
+                    "name": "R. Agarwal",
+                    "id": "2069560"
+                },
+                {
+                    "name": "N. Mittal",
+                    "id": "1380176948"
+                }
+            ],
+            "year": 2021,
+            "venue": "International Journal of Applied Dental Sciences",
+            "score": 0.4970401357794407,
+            "abstract": "The development of digital dentistry has tremendously revolutionized the way restorative procedures are performed today. Computer-Aided Design/Computer-Aided Milling (CAD/CAM) is an integral part of modern dentistry since its inception in the 1980s when CEREC was first introduced 15 years ago. Improved mechanical retention, better marginal integrity and enhanced aesthetics are few of the advantages of CAD/CAM over conventional indirect restorative techniques. The current paper demonstrates two case reports where the restorative needs of the patient were fulfilled with the help of CAD/CAM technology.",
+            "corpusId": 233322498,
+            "url": "https://api.semanticscholar.org/CorpusId:233322498"
+        },
+        {
+            "title": "Effect of Materials For Interim Restoration on Estimation of Working Length Using Electronic Apex Locator: in vitro Study",
+            "authors":
+            [
+                {
+                    "name": "F. Ortega",
+                    "id": "28945097"
+                },
+                {
+                    "name": "L. Romero",
+                    "id": "39138500"
+                },
+                {
+                    "name": "D. Echeverri",
+                    "id": "113582524"
+                },
+                {
+                    "name": "F. Aguilera",
+                    "id": "2083354190"
+                }
+            ],
+            "year": 2021,
+            "venue": "International journal of odontostomatology",
+            "score": 0.49537882090444074,
+            "abstract": "The aim of this in vitro study was to evaluate measurement accordance using an electronic apex locator for estimation of working length in endodontics when different restorative materials for interim crown restoration are utilized. For this study, 13 single-rooted premolars with endodontic occlusal access cavity were prepared. To establish the working length of each tooth, these were mounted in alginate and with the help of an electronic foramen locator and endodontic file K-file # 15, the working length was established. This length was later compared to the estimated working lengths using different intermediate restoration materials. These materials were: Superior Chemfil, Ketac TM Molar Easymix and Filtek z350 resin. In the electronic measurements, an acceptable tolerance range of variation up to ± 0.5 mm was considered. Highest discrepancies were considered erroneous. For these measurements, central tendency and dispersion were analyzed. The Bland-Altman method was used, and the ANOVA test with a significance level of p <0,05 for statistic difference. Regarding measurements' acceptability and the type of interim restoration material utilized, 7 were acceptable, and 6 were unacceptable for ChemFil Superior, 12 were acceptable and 1 unacceptable for KetacTM Molar Easymix, and 11 were acceptable and 2 were unacceptable for Filtek Z350 composite resin. The average difference between all electronic measurements was 0.29 (± 0.44). Chemfill Superior showed the most prominent variation between measurements 0.58 (± 0.45). When using an electronic apex locator, measurements showed statistically significant differences depending on the interim restoration material of choice (p<0.05). In conclusion, the measurement accordance using electronic apex locator to estimation the working length is higher, however the electronic estimation of working length can be significatively affected by the material chosen for interim temporary restoration.",
+            "corpusId": 236393534,
+            "url": "https://api.semanticscholar.org/CorpusId:236393534"
+        },
+        {
+            "title": "Influence of type of final restoration on the fracture resistance and fracture mode of endodontically treated premolars with occluso-mesial cavities",
+            "authors":
+            [
+                {
+                    "name": "S. Bajunaid",
+                    "id": "14365608"
+                },
+                {
+                    "name": "N. Alsadhan",
+                    "id": "145090130"
+                },
+                {
+                    "name": "Noura M AlBuqmi",
+                    "id": "1460294615"
+                },
+                {
+                    "name": "Reem Alghamdi",
+                    "id": "2341745578"
+                }
+            ],
+            "year": 2020,
+            "venue": "Saudi Dental Journal",
+            "score": 0.49498638595212313,
+            "abstract": "Introduction The aim of this study was to compare the fracture resistance of endodontically treated premolars after the application of three restorative materials (i.e., direct composite, indirect composite, and computer aided design/computer aided manufacturing CAD/CAM ceramic inlays) to restore a conservative occluso-mesial cavity preparation. Materials and methods sixty sound maxillary premolars were divided into four experimental groups; group A: the control group, where neither root canal treatment nor preparation were performed; group B: teeth were restored with a direct Filtek Z250 composite restorative material; group C: teeth were restored with an indirect inlay Filtek Z250 composite restorative material; group D: teeth were restored with IPS E.Max CAD/CAM monolithic ceramic inlays. Access cavities and root canal treatment procedures were conducted using standard techniques. Then, the cavities were restored with direct composite restorative materials following manufacturer’s instructions. Each group received mesial-occlusal cavities and restored according to the designated group. Teeth from all groups were exposed to a thermocycling regimen of 500 cycles in water baths at 5–55 °C. Then, each specimen was mounted on a special fixture on a computer controlled Instron Universal Testing Machine. An axial compressive load was applied to the palatal cusp up to failure at an angle of 45°. The force was applied at the rate of 2 mm/min until visible or audible evidence of fracture was observed. The force at fracture was measured in MPa, and the fracture mode was recorded as either favorable [restorable adhesive fracture above the cemento-enamel junction (CEJ)] or unfavorale (non-restorable fractures under CEJ). The obtained data were analyzed using the SPSS version 21.0 statistical software. One-way ANOVA and Tukey's test were used to compare the mean values of maximum load of the four groups. Pearson's Chi-square test was used to compare the distribution of failure mode among the four groups. The p-value of ≤ 0.05 was used to report the statistical significance of results.",
+            "corpusId": 226338075,
+            "url": "https://api.semanticscholar.org/CorpusId:226338075"
+        },
+        {
+            "title": "Fracture strength of flowable bulk-fill resin composites from different dental manufacturers for occluso-proximal restorations in primary teeth.",
+            "authors":
+            [
+                {
+                    "name": "C. P. Cavalheiro",
+                    "id": "133746082"
+                },
+                {
+                    "name": "C. L. da Silva",
+                    "id": "2321504422"
+                },
+                {
+                    "name": "C. C. Mendes",
+                    "id": "2333259247"
+                },
+                {
+                    "name": "F. B. de Araujo",
+                    "id": "121317528"
+                },
+                {
+                    "name": "J. Imparato",
+                    "id": "5797140"
+                },
+                {
+                    "name": "T. Lenzi",
+                    "id": "144276973"
+                }
+            ],
+            "year": 2025,
+            "venue": "American Journal of Dentistry",
+            "score": 0.4940349758326682,
+            "abstract": "",
+            "corpusId": 283769796,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/41388952"
+        },
+        {
+            "title": "Fracture Resistance of Laboratory Composite Versus All-Ceramic Restorations in Class II Inlay Cavity Preparations: An In Vitro Study",
+            "authors":
+            [
+                {
+                    "name": "Shreya Agarwal",
+                    "id": "2238067875"
+                },
+                {
+                    "name": "Vineet Gupta",
+                    "id": "2238073748"
+                },
+                {
+                    "name": "Srinkhala",
+                    "id": "2238062624"
+                },
+                {
+                    "name": "Shreyansh Singh",
+                    "id": "2108409450"
+                },
+                {
+                    "name": "Poorvi Saxena",
+                    "id": "2111286603"
+                },
+                {
+                    "name": "Jaydip Marvaniya",
+                    "id": "2129294982"
+                }
+            ],
+            "year": 2023,
+            "venue": "Cureus",
+            "score": 0.4929333915043315,
+            "abstract": "Background: A posterior tooth's occlusal surfaces and the proximal surface can be restored by using an inlay, which is an intra-crown cast reconstruction without affecting the cusps of the tooth. When an inlay is prepared using an indirect approach, issues with traditional filling approaches, including poor morphology of the occlusal aspect or proximal aspect, inadequate resistance to wear, or subpar mechanical qualities of the directly inserted filler substance, are overcome. Aim: The current study was conducted in order to compare and assess the resistance to fracture of dental materials used in the preparation of inlay restorations indirectly, like composite restorations prepared by laboratories indirectly, inlays formed indirectly of monolithic translucent ceramic derived from zirconia, and inlays formed indirectly of traditional monolithic ceramic derived from zirconia. Methods and materials: For the investigation, 100 human premolars of the maxilla that were extracted recently were chosen. A self-polymerizing acrylic resin was used to incorporate the tooth roots in a band made up of polyvinyl chloride up to 2 mm below the cement-enamel junction. The dimension of the band was 1.3 cm by 1.9 cm. Five categories of 20 specimens of such teeth were formed. Category one, featuring teeth in good condition, acted as the positive control category. The remaining four categories of teeth received inlay tooth preparation. The research samples underwent thermocycling after having been preserved for a full week following the cementation of inlay replacements. Then, in a universal testing apparatus, every sample endured axial compressive force with a metal globe delivered vertically at a crosshead rate of 1 mm/minute. The amount of force necessary to cause a fracture was measured in Newtons (N). Results:The mean values of resistance against fracture in specimens in categories 1-5 were 1208.87 N, 614.89 N, 733.05 N, 1179.14 N, and 1148.49 N, respectively. The values of fracture resistance in specimens where an inlay cavity preparation was done but not filled were lower than those in traditional monolithic ceramic derived from zirconia and tooth specimens with inlays formed of monolithic translucent ceramic derived from zirconia, and the difference was significant statistically (p=0.001). The values of fracture resistance in composite inlay restorations prepared by laboratories were indirectly lower than those of monolithic ceramic derived from zirconia and tooth specimens with inlays formed of monolithic translucent ceramic derived from zirconia, and the difference was significant statistically (p=0.004). Conclusion: Within the constraints of the current investigation, we can state that indirect zirconia-based ceramic products offer adequate fracture resistance, but additional research is needed to determine how well these materials hold up under different types of pressures before employing them in clinical tooth restoration.",
+            "corpusId": 261565312,
+            "url": "https://pdfs.semanticscholar.org/5657/650824ed6811b39a344b1dc34c870d80b9e9.pdf"
+        },
+        {
+            "title": "Effects of Adjacent Tooth Type and Occlusal Fatigue on Proximal Contact Force of Posterior Bulk Fill and Incremental Resin Composite Restoration.",
+            "authors":
+            [
+                {
+                    "name": "Lrs Oliveira",
+                    "id": "50381792"
+                },
+                {
+                    "name": "C. Moura",
+                    "id": "6876416"
+                },
+                {
+                    "name": "Kgba Cavalcanti",
+                    "id": "2151589127"
+                },
+                {
+                    "name": "P. Soares",
+                    "id": "2141450155"
+                },
+                {
+                    "name": "Afm Cardenas",
+                    "id": "32764020"
+                },
+                {
+                    "name": "C. Soares",
+                    "id": "1744673"
+                }
+            ],
+            "year": 2022,
+            "venue": "Operative dentistry",
+            "score": 0.4915948520206534,
+            "abstract": "",
+            "corpusId": 246387767,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/35090036"
+        },
+        {
+            "title": "Influence of adhesive-composite application modalities on their bonding to tooth structure and resistance of the performed restorations to failure",
+            "authors":
+            [
+                {
+                    "name": "K. Abdelaziz",
+                    "id": "2076606"
+                },
+                {
+                    "name": "A. Saleh",
+                    "id": "32408126"
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Dental Sciences",
+            "score": 0.4911908681450669,
+            "abstract": "Background/purpose The longevity of bonded composite restorations could be affected by the utilized adhesive-composite application techniques. This in vitro study aimed to evaluate the influence of adhesive-composite application modalities on their bonding values to tooth structure and on the failure resistance of the performed restorations on loading. Materials and methods Resin composite studs, 2 mm in diameter and 4 mm high, were bonded in 2 groups to flattened enamel and dentin surfaces of 80 extracted premolars using pre-cured (PC) and co-cured (CC) self-etch resin adhesive. Studs in each group were built-up in 4 subgroups using either multiple increments of nano-filled composite (IF, control) or single increment of preheated nano-filled (PH), bulk-fill (BF) and sonic-activated bulk-fill composites (SF). Another 80 premolars with standard class II cavities were also restored using the same adhesive-composite application modalities. All specimens were then stressed on a universal testing machine to assess the composite-tooth shear bond strength and the resistance of the performed restorations to failure. The modes of specimens’ failure were also assessed following each test. Results The PC adhesive provided higher bond strength to dentin (p < 0.05) and comparable bond strength to enamel in comparison to the CC one (p>0.05%). Both PH and BF composites showed lower bond strength to dentin in presence of PC adhesive (p < 0.05). Comparable bond strengths were noticed for PH, BF and SF composites to dentin in presence of CC adhesive (p > 0.05). PH and SF restorations presented the highest resistance to failure (p < 0.05). Conclusion Both incrementally and bulky-inserted composites offer clinically acceptable bond strength in presence of pre-cured resin adhesive. Both Preheated and sonic-activated composite restorations offer the highest resistance to failure on loading. The preheating procedure renders regular composite material suitable for bulk-fill applications.",
+            "corpusId": 81514912,
+            "url": "https://api.semanticscholar.org/CorpusId:81514912"
+        },
+        {
+            "title": "Effects of application method on shrinkage vectors and volumetric shrinkage of bulk-fill composites in class-II restorations.",
+            "authors":
+            [
+                {
+                    "name": "D. Kaisarly",
+                    "id": "11889593"
+                },
+                {
+                    "name": "Ruth Langenegger",
+                    "id": "2142205117"
+                },
+                {
+                    "name": "F. Litzenburger",
+                    "id": "30488610"
+                },
+                {
+                    "name": "K. Heck",
+                    "id": "144070392"
+                },
+                {
+                    "name": "M. El Gezawi",
+                    "id": "134387340"
+                },
+                {
+                    "name": "P. Rösch",
+                    "id": "34740544"
+                },
+                {
+                    "name": "K. Kunzelmann",
+                    "id": "32679020"
+                }
+            ],
+            "year": 2021,
+            "venue": "Dental Materials",
+            "score": 0.4903969403227595,
+            "abstract": "",
+            "corpusId": 244650593,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/34836696"
+        },
+        {
+            "title": "Study on the Behaviour of the Luting Cement for Aesthetic Inlays",
+            "authors":
+            [
+                {
+                    "name": "A. Vitalariu",
+                    "id": "14977642"
+                },
+                {
+                    "name": "M. Tatarciuc",
+                    "id": "11736422"
+                },
+                {
+                    "name": "O. Luca",
+                    "id": "1436207345"
+                },
+                {
+                    "name": "Catalina Holban-Cioloca",
+                    "id": "1573693495"
+                },
+                {
+                    "name": "O. Nicolaiciuc",
+                    "id": "83728993"
+                },
+                {
+                    "name": "Diana Diaconu-Popa",
+                    "id": "1435244518"
+                }
+            ],
+            "year": 2019,
+            "venue": "unknown",
+            "score": 0.4855303949547794,
+            "abstract": "The clinical success of any indirect prosthodontic restoration is strongly related, among other numerous factors, to the fixing procedure. The technological deficiencies into the inlay cementation lead to defects, either in depth or on surface, which often cause failures. The longevity of inlays depends, to a large extent, on the quality of the dental-prosthetic joint. This marginal adaptation is influenced by the thickness and the type of the luting cement. The aim of this study is a comparative analysis on the behavior of the luting cement for composite resin and ceramic inlays in two different solutions: ANFOR-type artificial saliva and a 20% citric acid solution. Fixing composites are the material of choice for works with high aesthetic potential, our study revealing that their depreciation and alteration is reduced, even in aggressive environments. Cementation seems to be the most critical step, and its long-term success relies on adherence to the clinical protocols",
+            "corpusId": 213059169,
+            "url": "https://api.semanticscholar.org/CorpusId:213059169"
+        },
+        {
+            "title": "Fracture resistance of restorations of endodontically treated mandibular premolars with proximal-occlusal defects",
+            "authors":
+            [
+                {
+                    "name": "X. Gao",
+                    "id": "2144019501"
+                }
+            ],
+            "year": 2013,
+            "venue": "unknown",
+            "score": 0.4629510766673318,
+            "abstract": "",
+            "corpusId": 138100270,
+            "url": "https://api.semanticscholar.org/CorpusId:138100270"
+        },
+        {
+            "title": "New adhesive rehabilitation technique with indexed occlusal tabletops made by 3D printing technology.",
+            "authors":
+            [
+                {
+                    "name": "Luis Jané-Chimeno",
+                    "id": "2310411639"
+                },
+                {
+                    "name": "Alfonso Gil",
+                    "id": "2310416424"
+                },
+                {
+                    "name": "Rafael Jaen-Gutiérrez",
+                    "id": "2310411702"
+                },
+                {
+                    "name": "Patricia Freire",
+                    "id": "2310412032"
+                },
+                {
+                    "name": "Adela Jané-Chimeno",
+                    "id": "2310412742"
+                },
+                {
+                    "name": "Gerardo Ruales-Suárez",
+                    "id": "2310413608"
+                }
+            ],
+            "year": 2024,
+            "venue": "Journal of Esthetic and Restorative Dentistry",
+            "score": 0.4454746113359956,
+            "abstract": "OBJECTIVE\nIn oral rehabilitation, a full mouth minimal invasive treatment can represent a major challenge for the patient and the dentist. The purpose of this article is to present a new technique to restore eroded teeth and recover the vertical dimension with a simple and predictable technique.\n\n\nCLINICAL CONSIDERATIONS\nOcclusal tabletop restorations are a suitable conservative option to restore anatomy and vertical dimension augmentation but highly sensitive. The cementation of those restorations without stable landmarks, the cement excess removal, the insertion path, or the time needed are some of the difficulties can be faced. Now a days with the new CAD-CAM techniques is possible to develop a new occlusal tabletop manufacturing alternative utilizing 3D-printed technology by unifying the restorations with a customized connector that allows us to print several onlays at same time, as a single object, also being cemented at once.\n\n\nCONCLUSIONS\nThis protocol reduces the technique sensitivity of a vertical dimension oral rehabilitation process, reduce the chair time, enhancing the patient-comfort and delivers a unique way to restore dental lost anatomy as a definitive or temporary way with printing materials.\n\n\nCLINICAL SIGNIFICANCE\nWith the advent of new CAD-CAM 3D printing materials, which are increasingly versatile and gaining favor among clinicians, it is now possible to address complex clinical situations with greater predictability. This technology enables the development of treatment solutions that are both effective and efficient, consequently reducing clinical time for the patient.",
+            "corpusId": 271061747,
+            "url": "https://api.semanticscholar.org/CorpusId:271061747"
+        },
+        {
+            "title": "Resin-modified Glass Ionomer Restoration on a Primary Molar Using an Occlusal Stamp: A Case Report",
+            "authors":
+            [
+                {
+                    "name": "Yassine Harichane",
+                    "id": "2317584317"
+                }
+            ],
+            "year": 2024,
+            "venue": "International Journal of Clinical Pediatric Dentistry",
+            "score": 0.44119042204669234,
+            "abstract": "Abstract Aim and background Direct restorations require skill and time to be performed properly; thus, it is a daily challenge for the pediatric dentist. Adapting techniques proven in adults can provide quick and easy solutions for children. In this case report, we describe the use of the occlusal stamp technique. Case description An 8-year-old girl was diagnosed with dental caries in our dental practice. The treatment of her class I cavity was performed using a resin-modified glass ionomer (RMGI) and an occlusal stamp. The high viscosity of the RMGI and the ingenuity of the occlusal stamp allow for a lifelike occlusal anatomy. Conclusion By copying the preoperative shape onto the restorative material, we performed a restorative treatment quickly and effectively. Pediatric dentists can perform biomimetic restorations with natural occlusal morphology using the occlusal stamp technique in a short time. Clinical significance The occlusal stamp is a simple procedure to restore the occlusal anatomy. This technique reduces the working time. The qualitative and quantitative objectives are easily achieved, thanks to this tool. How to cite this article Harichane Y. Resin-modified Glass Ionomer Restoration on a Primary Molar Using an Occlusal Stamp: A Case Report. Int J Clin Pediatr Dent 2024;17(5):616-618.",
+            "corpusId": 272047809,
+            "url": "https://api.semanticscholar.org/CorpusId:272047809"
+        },
+        {
+            "title": "Clinical Aspects of Combination of Ceramic and Acrylic Occlusal Surfaces",
+            "authors":
+            [
+                {
+                    "name": "Z. Ozhohan",
+                    "id": "84075895"
+                },
+                {
+                    "name": "A. Biben",
+                    "id": "81980542"
+                }
+            ],
+            "year": 2017,
+            "venue": "unknown",
+            "score": 0.4181790633515117,
+            "abstract": "The objective of the research was to develop and substantiate the methods of constructing the occlusal surfaces when manufacturing aesthetic fixed restorations through the combination of different materials. Materials and methods. The study included 65 patients with ceramic and acrylic occlusal surfaces of aesthetic fixed dental prostheses. Group I included 21 patients with a combination of ceramic and acrylic occlusal surfaces. Group II included 22 patients with a combination of ceramic occlusal surfaces. Group III included 22 patients with a combination of acrylic occlusal surfaces. The patients were observed 3, 6 and 12 months after prosthetic repair. Results. The greatest increase in the occlusal contact surface area of fixed restorations was observed in Group I, that is, when combining dental prostheses with ceramic and acrylic occlusal surfaces. Considering uneven abrasion of the occlusal surfaces, we do not recommend to combine different materials when veneering the occlusal surface of the antagonistic teeth. Conclusions. This study demonstrated the important role of the correct combination of materials when veneering the occlusal surfaces. Physical and chemical properties of materials, namely the abrasion resistance play a significant role in the long-term denture functioning. The smallest increase in the occlusal contact surface area was observed in Group II when combining ceramic occlusal surfaces. It was due to a good abrasion resistance of ceramics as compared to acrylic resin as well as the presence of the glazed layer which prevents the premature abrasion of the occlusal surfaces of the antagonistic teeth due to lower surface roughness. The combination of acrylic resin and ceramics when constructing the occlusal surfaces of fixed restorations in Group I demonstrated the highest rate of the increase in the occlusal contact surface area – 9.93%. It was due to a low hardness of acrylic resin and its high surface roughness. In addition, there was observed an uneven abrasion of the occlusal surfaces resulting in periodontal tissue overload, thereby negatively affecting denture functioning.",
+            "corpusId": 8651594,
+            "url": "https://api.semanticscholar.org/CorpusId:8651594"
+        },
+        {
+            "title": "Can pulpal floor debonding be detected from occlusal surface displacement in composite restorations?",
+            "authors":
+            [
+                {
+                    "name": "João Batista Novaes",
+                    "id": "39461807"
+                },
+                {
+                    "name": "E. Talma",
+                    "id": "2084628525"
+                },
+                {
+                    "name": "E. B. L. Las Casas",
+                    "id": "7499414"
+                },
+                {
+                    "name": "W. Aregawi",
+                    "id": "49732780"
+                },
+                {
+                    "name": "Lauren Wickham Kolstad",
+                    "id": "29994367"
+                },
+                {
+                    "name": "S. Mantell",
+                    "id": "34088574"
+                },
+                {
+                    "name": "Yan Wang",
+                    "id": "2152542497"
+                },
+                {
+                    "name": "A. Fok",
+                    "id": "2707982"
+                }
+            ],
+            "year": 2018,
+            "venue": "Dental Materials",
+            "score": 0.3585312473690515,
+            "abstract": "",
+            "corpusId": 41533,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29199007"
+        },
+        {
+            "title": "Technical and Biological Complications of Screw-Retained (CAD/CAM) Monolithic and Partial Veneer Zirconia for Fixed Dental Prostheses on Posterior Implants Using a Digital Workflow: A 3-Year Cross-Sectional Retrospective Study",
+            "authors":
+            [
+                {
+                    "name": "P. De Angelis",
+                    "id": "47444166"
+                },
+                {
+                    "name": "G. Gasparini",
+                    "id": "34146850"
+                },
+                {
+                    "name": "Francesca Camodeca",
+                    "id": "1698186165"
+                },
+                {
+                    "name": "Silvio De Angelis",
+                    "id": "148031403"
+                },
+                {
+                    "name": "M. G. Liguori",
+                    "id": "147519105"
+                },
+                {
+                    "name": "E. Rella",
+                    "id": "67044567"
+                },
+                {
+                    "name": "F. Cannata",
+                    "id": "108499325"
+                },
+                {
+                    "name": "A. D'addona",
+                    "id": "70485940"
+                },
+                {
+                    "name": "P. F. Manicone",
+                    "id": "6851578"
+                }
+            ],
+            "year": 2021,
+            "venue": "BioMed Research International",
+            "score": 0.33027872525391877,
+            "abstract": "Objective The introduction of CAD/CAM and the development of zirconia-based restorations have allowed clinicians to use less expensive materials and faster manufacturing procedures. The purpose of the study was to analyze the differences, in terms of mechanical and biological complication, in multiunit zirconia fixed dental prosthesis (FPDs) on posterior implants produced using a digital workflow. Method and Materials. This study was a retrospective investigation, and patients treated with screw-retained monolithic or partial veneer FPDs on dental implants were selected. Periapical radiographs were taken at baseline and at the 3-year follow-up. Complications were recorded and classified as technical and biological ones. Results The study population included 25 patients. The occlusal and interproximal corrections were not clinically significant. In the study sample, the survival rate and success rate of the FPDs after 3 years were 100% and 96%, respectively. One implant failed immediately after placement. Conclusion Monolithic zirconia FPDs and partial veneer FPDs showed a 100% survival rate, presenting an interesting alternative to metal ceramic restorations. The partial veneer FPDs had a higher technical complication rate than the monolithic FPDs; however, no statistically significant difference was found.",
+            "corpusId": 236196691,
+            "url": "https://api.semanticscholar.org/CorpusId:236196691"
+        },
+        {
+            "title": "Clinical assessment of food impaction after implant restoration: a retrospective analysis",
+            "authors":
+            [
+                {
+                    "name": "Dan-ning Wang",
+                    "id": "14718058"
+                },
+                {
+                    "name": "Xinwen Zhang",
+                    "id": "2130029334"
+                },
+                {
+                    "name": "Chong Zhang",
+                    "id": "2111387190"
+                },
+                {
+                    "name": "Lu-lu Jiang",
+                    "id": "2108293181"
+                },
+                {
+                    "name": "Chun-fu Deng",
+                    "id": "12608622"
+                },
+                {
+                    "name": "Baohong Zhao",
+                    "id": "37282075"
+                }
+            ],
+            "year": 2021,
+            "venue": "Food Science and Technology",
+            "score": 0.32869826194248436,
+            "abstract": "Abstract In the current study the incidence of food impaction between implant-supported fixed dental prostheses and adjacent teeth was determined and the factors that influence food impaction were identified. Seven hundred seventy-nine implant prosthetic crowns and 879 adjacent sites from a pool of 489 patients were retrospectively studied. Food impaction existed in 16.6% of patients with implant restorations at the follow-up evaluations. Food impaction occurred more frequently on the mesial aspect of the implant prosthesis and the molar area. Among the factors that affected food impaction, proximal contact loss was shown to be the major cause (78.6%), while the incidence of food impaction on the mesial and distal aspects was 58.0% and 20.6%, respectively. Based on single-factor analysis of variance, gender, implant location, mesial and distal aspects of the prosthesis, and lost time before implant restoration were the factors that influenced proximal contact loss in patients (P < 0.05). In conclusion, proximal contact loss was shown to be highly associated with food impaction. Thus, gender, the molar area, the mesial aspect of the prosthesis, and the lost time before implant restoration should be fully considered. Guidance on the proper use and maintenance of prostheses is essential to achieve an optimal outcome.",
+            "corpusId": 233801000,
+            "url": "https://api.semanticscholar.org/CorpusId:233801000"
+        },
+        {
+            "title": "Implant prostheses and adjacent tooth migration: preliminary retrospective survey using 3-dimensional occlusal analysis.",
+            "authors":
+            [
+                {
+                    "name": "Hua Wei",
+                    "id": "2115438996"
+                },
+                {
+                    "name": "Y. Tomotake",
+                    "id": "4334869"
+                },
+                {
+                    "name": "K. Nagao",
+                    "id": "6272776"
+                },
+                {
+                    "name": "T. Ichikawa",
+                    "id": "2463467"
+                }
+            ],
+            "year": 2008,
+            "venue": "International Journal of Prosthodontics",
+            "score": 0.32591076711717326,
+            "abstract": "",
+            "corpusId": 40143045,
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/18717086"
+        },
+        {
+            "title": "Marginal and Internal Fit of Ceramic Restorations Fabricated Using Digital Scanning and Conventional Impressions: A Clinical Study",
+            "authors":
+            [
+                {
+                    "name": "Jeong-Hyeon Lee",
+                    "id": "2118475808"
+                },
+                {
+                    "name": "Keunbada Son",
+                    "id": "51097063"
+                },
+                {
+                    "name": "Kyu-Bok Lee",
+                    "id": "5858079"
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Clinical Medicine",
+            "score": 0.31754430625921215,
+            "abstract": "This clinical study was designed with the aim of fabricating four ceramic crowns using the conventional method and digital methods with three different intraoral scanners and evaluate the marginal and internal fit as well as clinician satisfaction. We enrolled 20 subjects who required ceramic crowns in the upper or lower molar or the premolar. Impressions were obtained using digital scans, with conventional impressions (polyvinyl siloxane and desktop scanner) and three different intraoral scanners (EZIS PO, i500, and CS3600). Four lithium disilicate glass-ceramic crowns were fabricated for each patient. In the oral cavity, the proximal and occlusal adjustments were performed, and the marginal fit and internal fit were evaluated using the silicone replica technique. The clinician satisfaction score of the four crowns was evaluated as per the evaluations of the proximal and occlusal contacts made during the adjustment process and the marginal and internal fit. For statistical analysis, the differences among the groups were analyzed with one-way analysis of variance and Tukey HSD test as a post-test; Pearson correlation analysis was used for analyzing the correlations (α = 0.05). There was a significant difference in the marginal and internal fit of the ceramic crowns fabricated using three intraoral scanner types and one desktop scanner type (p < 0.001); there was a significant difference in the clinician satisfaction scores (p = 0.04). The clinician satisfaction score and marginal fit were significantly correlated (absolute marginal discrepancy and marginal gap) (p < 0.05). An impression technique should be considered for fabricating a ceramic crown with excellent goodness-of-fit. Further, higher clinician satisfaction could be obtained by reproducing the excellent goodness-of-fit using the intraoral scanning method as compared to the conventional method.",
+            "corpusId": 229302392,
+            "url": "https://pdfs.semanticscholar.org/f54d/0f3a7c4d4f2ead36c1408c44f03629779dbc.pdf"
+        },
+        {
+            "title": "In vitro study of marginal, internal and proximal adaptation of implant-supported single-crown CAD/CAM restorations",
+            "authors":
+            [
+                {
+                    "name": "Kamila Aguiar Figueiredo Alves",
+                    "id": "147187178"
+                },
+                {
+                    "name": "J. E. Damasceno",
+                    "id": "90269863"
+                },
+                {
+                    "name": "V. M. B. Oliveira",
+                    "id": "2053134932"
+                },
+                {
+                    "name": "L. G. Bastos",
+                    "id": "2071759403"
+                },
+                {
+                    "name": "Andrea Nóbrega Cavalcanti",
+                    "id": "2126544404"
+                }
+            ],
+            "year": 2020,
+            "venue": "unknown",
+            "score": 0.31533693991378275,
+            "abstract": "Aim: This study evaluated the precision of a CAD/CAM system by measuring marginal, internal and proximal fits in implantsupported single-crown restorations. Methods: Ten models of the upper arch were made in which implants replaced the upper left premolars. For fabrication of the zirconia infrastructures, titanium bases (TiBase) were coded and scanned using a scan body. A second digital impression was made for the fabrication of prostheses. Silicone impression material was used to determine the internal clearance between the TiBase and infrastructure and between the infrastructure and crown, whose thickness was measured at three points [P1 (cervical), P2 (middle) and P3 (occlusal)] with a stereoscopic microscope at 70x and 100x magnification. One-way ANOVA for repeated measures and the Student t-test were used for the analysis of internal and marginal adaptation. Proximal contacts were analyzed qualitatively. Results: There was no significant difference between the teeth evaluated (Student’s t-test; p>0.05) or between the corresponding points evaluated in either tooth (one-way ANOVA; p>0.05). Analysis of the internal clearance between the infrastructure and crown demonstrated that all points were significantly different compared to the reference standardized at 100 μm (Student’s t-test p<0.0001). There was no significant difference between P1 and P2, with the thickness at these two points being lower than that obtained at P3 (one-way ANOVA, p<0.05). The proximal contacts did not coincide with the quality defined by the device. Conclusion: The system tested was unable to produce implantsupported single-crown ceramic restorations with marginal, internal and proximal fits matching the digital workflow, with the inferior fits requiring adjustment prior to cementation.",
+            "corpusId": 221784225,
+            "url": "https://pdfs.semanticscholar.org/0c60/8e66f2bbc220b368bc46b99ebdd2fdd8b655.pdf"
+        }
+    ]
+}
