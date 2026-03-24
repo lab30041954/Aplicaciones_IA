@@ -6,15 +6,13 @@
 
 3. NotebookLM/Canvas.
 
-4. ResearchRabbit.
-
-5. Academic writing: Paperpal, Thesify.
-
 ---
 
 # Zotero
 
 - https://www.zotero.org
+
+- Concepto: Research assitant for reference mangement.
 
 - Local app sincronizada con web app. La misma idea que en DropBox.
 
@@ -57,11 +55,3 @@
 - Flashcards.
 
 - Audio.
-
----
-
-# ResearchRabbit
-
-- Gratuito.
-
-- Network analysis basado en citas entre artículos.
