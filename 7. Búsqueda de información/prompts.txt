@@ -1,0 +1,13 @@
+How often should teeth cleaning take place?
+
+=============
+
+Prepare a list with the 10 articles most frequently cited on the topic "occlusal and proximal restorations", together with a summary of the most relevant conclusions.
+
+=============
+
+Create a literature review on occlusal and proximal restorations and give me the relevant papers.
+
+=============
+
+The attached JSON file contains the references for a paper to be published in International Journal of Oral Science. Write these references in the style of International Journal of Oral Science.
