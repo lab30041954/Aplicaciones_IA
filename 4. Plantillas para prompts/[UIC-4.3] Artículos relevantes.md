@@ -1,6 +1,6 @@
 # [UIC-4.3] Artículos relevantes
 
-## Input
+## Input 
 
 Prepara una lista de los 10 artículos de investigación más citados sobre "occlusal and proximal restorations" y un resumen de las conclusiones más relevantes.
 
