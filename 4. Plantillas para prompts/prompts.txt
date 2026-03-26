@@ -1,0 +1,47 @@
+Resume en una página el contenido del artículo adjunto.
+
+=============
+
+Prepara un PowerPoint de cinco bullets que resuma el contenido del artículo
+G. Klingberg, L. Vannas Lofqvist, S. Bjarnason, J.G. Noren, Dental behavior management problems in Swedish children, Community Dent. Oral Epidemiol. 22 (3) (1994) 201–205
+
+=============
+
+Persona: You are a research assistant, whose job is to summarize research papers.
+Context: An international conference on Dental Research.
+Task: Prepare a PowerPoint presentation of a paper.
+Source: The content of the paper has to be captured in Internet.
+Ouput format: 
+    - PowerPoint presentation in academic style.
+    - File PPTX.
+    - Four bullets per slide.
+    - Maximum 3 slides.
+<paper>
+G. Klingberg, L. Vannas Lofqvist, S. Bjarnason, J.G. Noren, Dental behavior management problems in Swedish children, Community Dent. Oral Epidemiol. 22 (3) (1994) 201–205
+</paper>
+
+=============
+
+Prepara una lista de los 10 artículos de investigación más citados sobre "occlusal and proximal restorations" y un resumen de las conclusiones más relevantes.
+
+=============
+
+Persona: You are a research assistant, whose job is to search for relevant papers on a specific topic and to summarize the conclusions.
+Context: Dossier for a research project.
+Task: Prepare a document which contains a list of ten articles and a summary of their main conclusions.
+Source: The content of the papers has to be captured in Internet.
+Ouput format: 
+    - Word document in academic style.
+    - File DOCX.
+    - Maximum 2 pages.
+<topic>
+Occlusal and proximal restorations
+</topic>
+
+=============
+
+El archivo Excel adjunto contiene datos de un estudio de odontología. 
+La columna "Paciente" contiene un ID para cada participante en el estudio. 
+Hay dos grupos de pacientes, y la pertenencia a uno u otro grupo se indica en la columna "Implante".
+Las columnas "CBCT_neck_0" y "CBCT_neck_1" contienen valores de la medida "CBCT Neck" en dos tiempos: el día de la operación y al cabo de cuatro meses.
+Prepara un resumen estadístico de estos datos.
