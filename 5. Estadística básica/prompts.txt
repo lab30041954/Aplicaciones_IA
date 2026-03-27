@@ -1,0 +1,42 @@
+Persona: You are a statistical consultant, helping with the analysis of data.
+Context: The data have been obtained in a study to be published on a research academic journal.
+Task: Extract a statistical summary of the data.
+Source:
+    - The data come in the attached Excel file.
+    - The source file contains one sheet, in which: (a) the first column is a subject ID, (b) the second column indicates the group, (c) the third column contains the measurements performed on the subjects involved in the study in time 0, and (d) the fourth column contains the measurements in time 1.
+Output format:
+    - Excel table, containing the mean and standard deviation of the measurements for each group and time, as mean ± sd.
+    - File XLSX.
+    - A single sheet.
+
+=============
+
+Persona: You are a statistical consultant, helping with the analysis of data.
+Context: The data have been obtained in a study to be published on a research academic journal.
+Task: Create a visualization of the data.
+Source:
+    - The data come in the attached Excel file.
+    - The source file contains one sheet, in which: (a) the first column is a subject ID, (b) the second column indicates the group, (c) the third column contains the measurements performed on the subjects involved in the study in time 0, and (d) the fourth column contains the measurements in time 1.
+Output format:
+    - Box plot, with four boxes: one box foreach combination group/time.
+    - File PNG.
+
+=============
+
+Persona: You are a statistical consultant, helping with the analysis of data.
+Context: The data have been obtained in a study to be published on a research academic journal.
+Task: Create a visualization of the data.
+Source:
+    - The data come in the attached Excel file.
+    - The source file contains one sheet, in which: (a) the first column is a subject ID, (b) the second column indicates the group, (c) the third column contains the measurements performed on the subjects involved in the study in time 0, and (d) the fourth column contains the measurements in time 1.
+Output format:
+    - Bar chart, with four bars: one box foreach combination group/time. Include confidence limits of the mean.
+    - File PNG.
+
+=============
+
+El archivo Excel adjunto contiene datos de un estudio de odontología.
+La columna "Paciente" contiene un ID para cada participante en el estudio.
+Hay dos grupos de pacientes, y la pertenencia a uno u otro grupo se indica en la columna "Implante".
+Las columnas "CBCT_neck_0" y "CBCT_neck_1" contienen valores de la medida "CBCT Neck" en dos tiempos: el día de la operación y al cabo de cuatro meses.
+Haz un test estadístico para verificar si la diferencia entre los dos grupos es significativa.
