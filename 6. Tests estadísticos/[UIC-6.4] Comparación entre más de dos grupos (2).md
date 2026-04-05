@@ -144,7 +144,7 @@ Para identificar qué grupos específicos son diferentes entre sí, se realizó 
 
 #### Visualización de los Resultados
 
-![](https://raw.githubusercontent.com/lab30041954/Aplicaciones_IA/blob/main/6.%20Tests%20estadísticos/%5BUIC-6.4%5D%20Figure.png)
+![](https://raw.githubusercontent.com/lab30041954/Aplicaciones_IA/main/6.%20Tests%20estadísticos/%5BUIC-6.4%5D%20Figure.png)
 
 #### Conclusiones
 
