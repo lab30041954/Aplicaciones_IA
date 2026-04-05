@@ -20,9 +20,9 @@
 
 ## Comparación entre más de dos grupos
 
-- Test de normalidad.
+- Test de normalidad (Shapiro-Wilks).
 
-- Test de Levene de homogeneidad de la varianza.
+- Test de homogeneidad de la varianza (Levene).
 
 - Test ANOVA.
 
