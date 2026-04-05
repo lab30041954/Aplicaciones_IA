@@ -38,16 +38,6 @@
 
 ---
 
-## Comparación entre dos medidas repetidas
-
-- Hipótesis de normalidad.
-
-- Test t de Student (one-sample, paired).
-
-- Test del rango signado de Wilcoxon.
-
----
-
 ## Análisis de regresión
 
 - Modelo lineal de efectos mixtos (mixed-effects, mixed model, LLM, LME).
