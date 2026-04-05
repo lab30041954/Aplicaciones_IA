@@ -115,14 +115,14 @@ has vm saved
 
 Tras analizar los datos del fichero, he realizado un estudio estadístico completo para determinar si existen diferencias significativas entre los cuatro grupos (**Control, AP, Alcohol y Alcohol+AP**).
 
-#### 1. Verificación de Supuestos
+### 1. Verificación de Supuestos
 
 Antes de aplicar el test, se comprobaron las condiciones necesarias:
 
 * **Normalidad:** Mediante el test de Shapiro-Wilk, se confirmó que los datos de cada grupo siguen una distribución normal ($p > 0.05$).
 * **Homocedasticidad:** El test de Levene mostró que las varianzas son suficientemente homogéneas entre los grupos ($p = 0.0689$).
 
-#### 2. Test Estadístico: ANOVA de un factor
+### 2. Test Estadístico: ANOVA de un factor
 
 Dado que se cumplen los supuestos, se aplicó un **ANOVA de un factor**. Los resultados indican que **existen diferencias altamente significativas** entre los grupos:
 
@@ -131,7 +131,7 @@ Dado que se cumplen los supuestos, se aplicó un **ANOVA de un factor**. Los res
 
 Al ser el p-valor mucho menor que 0.05, rechazamos la hipótesis nula de que todos los grupos son iguales.
 
-#### 3. Comparaciones Múltiples (Post-hoc Tukey)
+### 3. Comparaciones Múltiples (Post-hoc Tukey)
 
 Para identificar qué grupos específicos son diferentes entre sí, se realizó un test de **Tukey HSD**:
 
@@ -142,11 +142,11 @@ Para identificar qué grupos específicos son diferentes entre sí, se realizó 
 | **Alcohol+AP vs. AP** | -12.65 | 0.0028 | **Sí** |
 | **Alcohol+AP vs. Alcohol** | -11.57 | 0.0066 | **Sí** |
 
-#### Visualización de los Resultados
+### Visualización de los Resultados
 
 ![](https://raw.githubusercontent.com/lab30041954/Aplicaciones_IA/main/6.%20Tests%20estadísticos/%5BUIC-6.4%5D%20Figure.png)
 
-#### Conclusiones
+### Conclusiones
 
 1. El grupo **Control** presenta valores significativamente más altos que cualquier otro grupo.
 2. No hay una diferencia estadística real entre aplicar solo **AP** o solo **Alcohol**.
