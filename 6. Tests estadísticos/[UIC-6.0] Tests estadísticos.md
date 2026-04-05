@@ -1,11 +1,5 @@
 # [UIC-6.0] Tests estadísticos
 
-- Test de comparación entre dos grupos.
-
-- Test de comparación entre más de dos grupos.
-
-- Analisis de regresión.
-
 ---
 
 ## Comparación entre dos grupos
