@@ -14,17 +14,17 @@
 
 - Parametric vs nonparametric.
 
-- Shapiro-Wilks normality test.
+- Hipótesis de normalidad.
 
-- Two-sample: Mann-Whitney (Wilcoxon rank sum) test.
+- Test de normalidad (Shapiro-Wilks).
+
+- Two-sample: t test vs Mann-Whitney (Wilcoxon rank sum) test.
 
 - Paired: Wilcoxon signed rank test.
 
 ---
 
 ## Comparación entre más de dos grupos
-
-- Hipótesis de normalidad.
 
 - Test de normalidad.
 
