@@ -28,7 +28,7 @@
 
 - Test de comparaciones múltiples (Student-Newman-Keuls, Tukey HSD)
 
-- Test de Kruskal-Wallis.
+- Test no paramétrico (Kruskal-Wallis).
 
 ---
 
