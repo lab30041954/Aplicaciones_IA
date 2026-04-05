@@ -24,9 +24,9 @@
 
 - Test de homogeneidad de la varianza (Levene).
 
-- Test ANOVA.
+- Test ANOVA (one-way ANOVA F).
 
-- Test de Student-Newman-Keuls.
+- Test de comparaciones múltiples (Student-Newman-Keuls, Tukey HSD)
 
 - Test de Kruskal-Wallis.
 
