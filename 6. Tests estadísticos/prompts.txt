@@ -1,0 +1,39 @@
+Persona: You are a statistical consultant, helping with the analysis of data.
+Context: The data have obtained in a study to be published on a research academic journal.
+Source: 
+	- The data come in the attached Excel file. 
+	- The source file contains one sheet, in which: (a) the first column is a subject ID, (b) the second column indicates the group, (c) the third column contains the measurements performed on the subjects involved in the study in time 0, and (d) the fourth column contains the measurements in time 1.
+Tasks:
+	- Extract a statistical summary of the measurements, containing the mean and standard deviation for each group and time.
+    - Check whether the normality assumption is acceptable for a paired t test, separately for each group.
+    - If normality is acceptable, perform the t tests, reporting the mean difference and the p-value.
+    - If normality is not acceptable, perform a Wilcoxon signed-rank test, reporting the median difference and the p-value.
+Output format: Write the results in two tables which can be exported together to a Sheets file.
+
+=============
+
+Los resultados siguientes se han obtenido en un estudio de comparación de 4 grupos de 8 individuos. Están en la forma mean ± sd.
+Control: 76.8 ± 3.8
+AP: 38.6 ± 14.9
+Alcohol: 27.5 ± 8.7
+Alcohol+AP: 19.3 ± 5.4
+Aplica un análisis one-way ANOVA seguido de un test de Student–Newman–Keuls.
+
+=============
+
+En el fichero Excel adjunto se han recogido los resultados de un estudio de comparación de 4 grupos.
+En la primera columna (id) hay un identificador de los participantes en el estudio.
+En la segunda columna (values) están los resultados de las mediciones realizadas sobre cada uno de los participantes.
+En la tercera columna (group) está el grupo al que pertenece cada participante.
+Aplica un test estadístico para ver si las diferencias entre los grupos son significativas.
+
+=============
+
+El archivo Excel adjunto contiene datos de un estudio de odontología.
+La columna "Paciente" contiene un ID para cada participante en el estudio.
+Hay dos grupos de pacientes, y la pertenencia a uno u otro grupo se indica en la columna "Implante".
+Las columnas "CBCT_neck_0" y "CBCT_neck_1" contienen valores de la medida "CBCT Neck" en dos tiempos: el día de la operación y al cabo de cuatro meses.
+Haz un análisis estadístico basado en un modelo lineal de efectos mixtos que contenga un término "Implante", un término "Tiempo" y un término de interacción.
+
+
+
