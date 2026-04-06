@@ -48,7 +48,7 @@
 
 ## Taxonomía LLM (1)
 
-- **Modelos de generación de texto**: generan nuevo texto a partir de un texto propuesto por el usuario, el llamado **prompt**. Ejemplos: Google Gemini 3.0 Flash, OpenAi GPT-5.
+- **Modelos de generación de texto**: generan nuevo texto a partir de un texto propuesto por el usuario, el llamado **prompt**.
 
     + General-purpose.
 
@@ -64,9 +64,9 @@
 
 ## Taxonomía LLM (2)
 
-- Modelos cerrados: sólo por acceso remoto, normalmente en modo pay-per-use. Ejemplo: Google Gemini 3, OpenAi gpt-5.2, Anthropic Claude Opus 4.6.
+- Modelos cerrados: sólo por acceso remoto, normalmente en modo pay-per-use. Ejemplos: Gemini 3 (Google), gpt-5.2 (OpenAi), Claude Opus 4.6 (Anthropic).
 
-- Modelos abiertos: open-source u open-weight. Examples: OpenAI gpt-oss-20b (open-weight), Google's Gemma 3n E4B (open-weight), DeepSeek R1 (open-source), Alibaba's Qwen3 14B (open-source).
+- Modelos abiertos: open-source u open-weight. Ejemplos: gpt-oss-20b (OpenAI), Gemma 4 E4B (Google), DeepSeek R1 (High-Flyer), Qwen3.5 (Alibaba).
 
     + Instalación local: LMStudio, Ollama, Hugging Face, ModelScope.
 
@@ -76,7 +76,7 @@
 
 ## Tokens
 
-- Las **tokens** son los "átomos" en los que el texto es descompuesto por el modelo de lenguaje. 
+- Las **tokens** son los "átomos" en los que el modelo de lenguaje descompone el texto. 
 
 - Típicamente palabras, trozos de palabras o puntuación. También hay tokens para el inicio y el final de un texto.
 
@@ -90,7 +90,7 @@
 
 - Efectúa unas operaciones matemáticas con los vectores de entrada, usando una arquitectura de **red neuronal** cuyos parámetros se han calculado durante el entrenamiento del modelo. La arquitectura de red usada por los modelos de languaje se llama **transformer**.
 
-- El vector resultante es un conjunto de **probabilidades** para el token de salida, que se escoge de acuerdo a esas probabilidades.
+- El vector resultante es un conjunto de **probabilidades** para la token de salida, que se escoge de acuerdo a esas probabilidades.
 
 ---
 
