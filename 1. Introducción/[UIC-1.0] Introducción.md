@@ -4,21 +4,21 @@
 
 ## Outline
 
-1. Introducción
+1. Introducción.
 
-2. Modelos de lenguaje
+2. Modelos de lenguaje.
 
-3. Ingeniería de prompts
+3. Ingeniería de prompts.
 
-4. Plantillas para prompts
+4. Plantillas para prompts.
 
-5. Resúmenes estadísticos y formatos de datos
+5. Estadística básica.
 
-6. Tests estadísticos
+6. Tests estadísticos.
 
-7. Búsqueda de información
+7. Búsqueda de información.
 
-8. Discusión
+8. Discusión.
 
 ---
 
