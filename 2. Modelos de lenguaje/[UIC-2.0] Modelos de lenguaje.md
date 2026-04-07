@@ -36,7 +36,7 @@
 
     + Ejemplos.
 
-    + Chain-of-Thought (CoT) reasoning.
+    + Razonamiento Chain-of-Thought (CoT).
 
 - Herramientas:
 
