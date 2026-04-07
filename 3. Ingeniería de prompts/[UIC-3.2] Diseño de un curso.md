@@ -6,7 +6,7 @@ Querido Gemini,
 
 Tengo que dar un curso corto sobre aplicaciones de la inteligencia artificial a la docencia y la investigación a profesores de la Facultad de Odontología. ¿Puedes escibirme un guión para el curso?
 
-## Output (Gemini 3)
+## Output (Gemini 3 Fast)
 
 ¡Qué gran iniciativa! La odontología es un campo donde la IA está avanzando a pasos agigantados, no solo en la parte clínica (diagnóstico por imagen), sino también en cómo formamos a los futuros dentistas.
 
