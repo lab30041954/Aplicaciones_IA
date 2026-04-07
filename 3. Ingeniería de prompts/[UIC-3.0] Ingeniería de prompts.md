@@ -4,7 +4,7 @@
 
 ## ¿Qué es la ingeniería de prompts?
 
-- **La ingeniería de prompts** se ocupa de elaborar prompts que efectivamente comuniquen la tarea a realizar a un LLM, conduciendo a outputs ajustados y útiles.
+- **La ingeniería de prompts** se ocupa de elaborar prompts que comuniquen de forma eficaz la tarea a realizar a un LLM, conduciendo a outputs ajustados y útiles.
 
 - Requiere comprender los matices del languaje, el dominio específico en el que trabajamos y las capacidades y limitaciones del modelo que estamos usando.
 
@@ -31,6 +31,8 @@
 ---
 
 ## Nuevas tareas
+
+- Código de programación.
 
 - Búsqueda de información.
 
