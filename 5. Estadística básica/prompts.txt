@@ -18,7 +18,7 @@ Source:
     - The data come in the attached Excel file.
     - The source file contains one sheet, in which: (a) the first column is a subject ID, (b) the second column indicates the group, (c) the third column contains the measurements performed on the subjects involved in the study in time 0, and (d) the fourth column contains the measurements in time 1.
 Output format:
-    - Box plot, with four boxes: one box foreach combination group/time.
+    - Box plot, with four boxes: one box for each combination group/time.
     - File PNG.
 
 =============
@@ -30,7 +30,7 @@ Source:
     - The data come in the attached Excel file.
     - The source file contains one sheet, in which: (a) the first column is a subject ID, (b) the second column indicates the group, (c) the third column contains the measurements performed on the subjects involved in the study in time 0, and (d) the fourth column contains the measurements in time 1.
 Output format:
-    - Bar chart, with four bars: one box foreach combination group/time. Include confidence limits of the mean.
+    - Bar chart, with four bars: one box for each combination group/time. Include confidence limits of the mean.
     - File PNG.
 
 =============
