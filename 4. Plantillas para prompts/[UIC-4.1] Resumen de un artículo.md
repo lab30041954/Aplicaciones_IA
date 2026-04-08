@@ -39,7 +39,7 @@ En resumen, las restauraciones en niños no colaboradores tienen tasas de superv
 ## Input
 
 Prepara un PowerPoint de cinco bullets que resuma el contenido del artículo
-G. Klingberg, L. Vannas Lofqvist, S. Bjarnason, J.G. Noren, Dental behavior management problems in Swedish children, Community Dent. Oral Epidemiol. 22 (3) (1994) 201–205
+G. Klingberg, L. Vannas Lofqvist, S. Bjarnason, J.G. Noren, Dental behavior management problems in Swedish children, Community Dent. Oral Epidemiol. 22 (3) (1994) 201–205.
 
 ## Output (Gemini 3 Fast)
 
