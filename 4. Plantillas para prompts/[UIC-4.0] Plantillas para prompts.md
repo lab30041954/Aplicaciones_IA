@@ -1,5 +1,9 @@
 # [UIC-4.0] Plantillas para prompts
 
+---
+
+## Elementos
+
 1. Persona.
 
 2. Context.
@@ -12,7 +16,7 @@
 
 ---
 
-# Use cases
+## Use cases
 
 * Resumen de un artículo.
 
