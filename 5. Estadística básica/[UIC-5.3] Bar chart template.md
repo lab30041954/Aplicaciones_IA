@@ -14,7 +14,7 @@
 
 * Output format:
 
-    + Bar chart, with four bars: one box foreach combination group/time. Include confidence limits of the mean.
+    + Bar chart, with four bars: one box for each combination group/time. Include confidence limits of the mean.
 
     +  File PNG.
 
