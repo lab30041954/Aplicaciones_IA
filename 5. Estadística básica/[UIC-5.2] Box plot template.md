@@ -14,7 +14,7 @@
 
 * Output format:
 
-    + Box plot, with four boxes: one box foreach combination group/time.
+    + Box plot, with four boxes: one box for each combination group/time.
 
     +  File PNG.
 
