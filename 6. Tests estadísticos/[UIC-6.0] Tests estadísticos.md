@@ -34,7 +34,7 @@
 
 ## Análisis de regresión
 
-- Modelo lineal de efectos mixtos (mixed-effects, mixed model, LLM, LME).
+- Modelo lineal de efectos mixtos (mixed-effects, mixed model, LMM, LME).
 
 - Efectos fijos y efectos aleatorios.
 
