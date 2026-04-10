@@ -1,5 +1,9 @@
 # [UIC-7.0] Búsqueda de información
 
+---
+
+## Búsqueda de información
+
 1. PubMed.
 
 2. Google Scholar.
@@ -16,7 +20,7 @@
 
 ---
 
-# PubMed, Google Scholar, Semantic Scholar and OpenAlex
+## PubMed, Google Scholar, Semantic Scholar and OpenAlex
 
 - https://pubmed.ncbi.nlm.nih.gov
 
@@ -28,7 +32,7 @@
 
 ---
 
-# Perplexity
+## Perplexity
 
 - Perplexity AI: https://www.perplexity.ai
 
@@ -38,7 +42,7 @@
 
 ---
 
-# Consensus
+## Consensus
 
 - Semantic Scholar + OpenAlex + Consensus
 
@@ -58,7 +62,7 @@
 
 ---
 
-# Elicit
+## Elicit
 
 - Library.
 
@@ -66,7 +70,7 @@
 
 ---
 
-# SciSpace
+## SciSpace
 
 - Library.
 
