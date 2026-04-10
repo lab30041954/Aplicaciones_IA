@@ -1,5 +1,9 @@
 # [UIC-8.0] Otras herramientas
 
+---
+
+## Otras herramientas
+
 1. Zotero.
 
 2. Asta.
@@ -8,7 +12,7 @@
 
 ---
 
-# Zotero
+## Zotero
 
 - https://www.zotero.org
 
@@ -24,7 +28,7 @@
 
 ---
 
-# Asta
+## Asta
 
 - https://asta.allen.ai
 
@@ -42,7 +46,7 @@
 
 ---
 
-# NotebookLM/Canvas
+## NotebookLM/Canvas
 
 - https://notebooklm.google.com
 
